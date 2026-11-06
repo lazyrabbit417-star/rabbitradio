@@ -48,7 +48,25 @@
     "description": "松竹ゲームズは本日，ローグライト3Dアクション「夢幻桜楼閣」を発売した。本作は，プレイヤーが双剣を操る猫耳少女「レトラ」となり，無限に続くダンジョンに挑む作品だ。ランダム生成されるダンジョンで必殺技…",
     "image": "https://www.4gamer.net/games/914/G091464/20261105001/SS/002.jpg",
     "icon": "https://www.4gamer.net/favicon.ico"
-   }
+   },
+   "steam": 2991310,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2991310/1223692069/4f482021369a5b6bd29aca9b870dd85f1f30ff93/1793794199/hls_264_master.m3u8?t=1793804443",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257491485/2c134cc8086321c093aafcbb5cdb5b2693988944/movie_600x337.jpg?t=1793804443",
+     "name": "release1105_JP"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2991310/697804895/533ad139b724a1bafd4e5c992d12aaa933894093/1790840632/hls_264_master.m3u8?t=1790841029",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257442301/71cf84c900b5cd38693fae6efbe23a4920994b21/movie_600x337.jpg?t=1790841029",
+     "name": "Announcement0930_JP"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2991310/1670183007/0eb450fe5f2aca0820ea9bd6dc353cef880928f9/1760162967/hls_264_master.m3u8?t=1760163978",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257215958/559d12b1ec5a3e5c7d3c0c83c2fc58d48bba1976/movie_600x337.jpg?t=1760163978",
+     "name": "SteamPagePV2_JA"
+    }
+   ]
   },
   {
    "label": "ホロドリに秋の新イベント",
@@ -84,7 +102,15 @@
     "description": "『hololive Dreams（ホロドリ）』について、2026年11月6日（金）より、ゲーム内イベント“秋の夜長に、ひとつ屋根の下”が開始されています。あわせて、パジャマ姿の新たなホロメンも登場しました。“Dramatic XViltration”を含む全4曲の実装も発表しました。",
     "image": "https://cimg.kgl-systems.io/camion/files/93246/ogp_AQPl.jpg?x=1280",
     "icon": "https://dengekionline.com/res/images/headIcons/apple-touch-icon.png"
-   }
+   },
+   "steam": 4282500,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4282500/1055858287/32e4ac6702ff75ab7f170bcf79c7942df1fd33ce/1777292787/hls_264_master.m3u8?t=1783072837",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257327372/f769b87a27e762c8ebbb83c944032a2229e674b8/movie_600x337.jpg?t=1783072837",
+     "name": "Teaser trailer_jpn"
+    }
+   ]
   },
   {
    "label": "クライムライト、Steam版は延期",
@@ -120,7 +146,20 @@
     "description": "PS5/ニンテンドースイッチ2版は予定通りリリースされます。",
     "image": "https://www.gamespark.jp/imgs/ogp_f/1215527.jpg",
     "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
-   }
+   },
+   "steam": 3891160,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3891160/438928309/bf68e6184ec63f62dbb114b6db1730dc227f0081/1789607933/hls_264_master.m3u8?t=1792604885",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257427054/96bf647e2257a6bdc505b7c94a21698d13c44859/movie_600x337.jpg?t=1792604885",
+     "name": "オープニングムービー"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3891160/1225376380/0d7a2eab5a6dd3961fb4afc70992549ea8cdd148/1793762939/hls_264_master.m3u8?t=1793763985",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257490914/464481cec79207d3e801b3b5182600af3b3d494a/movie_600x337.jpg?t=1793763985",
+     "name": "GAMEPLAY"
+    }
+   ]
   },
   {
    "label": "学べる恋愛ADV『宅建らぶ』",
@@ -156,7 +195,15 @@
     "description": "Tsumugi Gamesは，PC向け宅建学習×恋愛ビジュアルノベル「宅建らぶ -異世界アルカナシア・土地法復興記-」を2026年11月6日にSteamで発売する。異世界に転移した宅建士が，土地に関…",
     "image": "https://www.4gamer.net/games/055/G105583/20261105044/SS/001.jpg",
     "icon": "https://www.4gamer.net/favicon.ico"
-   }
+   },
+   "steam": 5412150,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5412150/1213943283/2a38aacd3912a08ee96b4b9ee131d13655762429/1791988267/hls_264_master.m3u8?t=1792019955",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257461066/47e398a6d6d9b84abfa865998714d360bda41efa/movie_600x337.jpg?t=1792019955",
+     "name": "宅建らぶ 予告編"
+    }
+   ]
   },
   {
    "label": "『ナツノカナタ』新作が無料に",
@@ -188,7 +235,15 @@
     "description": "河出書房新社は11月6日、岡一秀氏が手がけるビジュアルノベルゲーム『ナツノカナタ ―PROLOGUE―』を発表した。",
     "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261106-477882-header.jpeg",
     "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
-   }
+   },
+   "steam": 5482550,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5482550/1065318851/078d520f118f7935f7251755049b70402a7e4aea/1793355681/hls_264_master.m3u8?t=1793933530",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257485279/50ea916189975bc4d177867c1b848770b69bec65/movie_600x337.jpg?t=1793933530",
+     "name": "Trailer"
+    }
+   ]
   },
   {
    "corner": "pickup",
@@ -225,7 +280,20 @@
     "description": "『勇者パーティはぜんめつしました。』は、壊れてしまった仲間の〈業〉と向き合い、一緒にケジメをつける高湿度・激重感情RPGです。壊滅した勇者パーティから1人だけを救出し、ダンジョンから脱出しましょう。限界状況のなか生まれる感情は、絆か、疑心か、依存か。",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2638080/7d92c38d580fcc65c717c378664417773b5ee972/capsule_616x353_japanese.jpg?t=1793847457",
     "icon": "https://store.steampowered.com/favicon.ico"
-   }
+   },
+   "steam": 2638080,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2638080/504662396/5e28f6ee12723b58f0eaca133872e5934cf01e23/1793845980/hls_264_master.m3u8?t=1793847455",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257492388/8078f87f83e5bbe5fcb69b80514c14d0ccf00ecc/movie_600x337.jpg?t=1793847455",
+     "name": "Final_Trailer_JP"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2638080/115432973/009370df33b43ef95524b69c45d21c6578638bdd/1791380041/hls_264_master.m3u8?t=1791381330",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257450500/e3ea18efe8ff59411a9e62043fc7ac93675878eb/movie_600x337.jpg?t=1791381330",
+     "name": "Trailer3_JP"
+    }
+   ]
   },
   {
    "corner": "pickup",
@@ -262,7 +330,15 @@
     "description": "その裏切り、アリっスか！？ コマンドRPG × すごろくが融合した、悪魔的パーティーゲーム！ 「スゴロク大魔王」に乗っ取られたスゴロクパークを取り戻すため、最大4人でサイコロを振って盤面を進み、さまざまなイベントやバトルを乗り越えよう。 仲間と協力して強敵「四天王」や「スゴロク大魔王」を倒せ！ ……しかし、ゲームの勝者になれるのは、倒したボスを連れ帰った1人だけ。 ボスを倒した瞬間から、仲間はライバルへ。 協力するか、裏切るか――最後に笑うのは誰だ？ さぁ、裏切りパーティーの始まりだ！",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4509300/e767605953849e32e72d25d86a4c69b7adf47cf5/capsule_616x353_japanese.jpg?t=1787677479",
     "icon": "https://store.steampowered.com/favicon.ico"
-   }
+   },
+   "steam": 4509300,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4509300/1296640226/679d52f3ca740a7556a26e356be1b520c7c3e08a/1784135145/hls_264_master.m3u8?t=1784188889",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257377683/18688a650f8c3a57388550f5591f0e94e4aac893/movie_600x337.jpg?t=1784188889",
+     "name": "Announcement"
+    }
+   ]
   },
   {
    "corner": "pickup",
@@ -299,7 +375,15 @@
     "description": "博麗霊夢があなたのデスクトップにやってきます。つついたり持ち上げたりすると霊夢らしく反応し、やることリストやアラームも一緒に見てくれます。そっけないけれど、さりげなくそばにいてくれる霊夢です。",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5069180/3c56dbb042e8adf81e8467d52ab727510dd274f0/capsule_616x353.jpg?t=1793764187",
     "icon": "https://store.steampowered.com/favicon.ico"
-   }
+   },
+   "steam": 5069180,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5069180/1448547499/c543cc7538c3f67126191da33af2163ce94205f7/1789387039/hls_264_master.m3u8?t=1791440413",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257424616/0ec6e37ddd003b916480e1b514048dfddf53278c/movie_600x337.jpg?t=1791440413",
+     "name": "Your Reimu PV"
+    }
+   ]
   },
   {
    "corner": "pickup",
@@ -336,7 +420,15 @@
     "description": "「今日こそ、ちゃんと勉強する！」",
     "image": "https://www.gamespark.jp/imgs/ogp_f/1214187.jpg",
     "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
-   }
+   },
+   "steam": 5108070,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5108070/1360173449/ccd7818621f898af2f62037a1ecadfcfd3fb6a97/1788947200/hls_264_master.m3u8?t=1788947989",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257420714/f4e3feb4b809e4c95f0057cef3dc051973a47f6b/movie_600x337.jpg?t=1788947989",
+     "name": "Chill with You : Shioi Announcement trailer"
+    }
+   ]
   },
   {
    "corner": "focus",
@@ -387,7 +479,15 @@
     "description": "【 村づくりアクションRPG 】女神に救われたあなたが転生したのは、魔王に支配され荒れ果てた世界。素材を集めて施設を建て、ジョブを変えられる帽子を使い分け、村人それぞれに仕事を任せながら、村を発展させよう。だが…ある晩、隣の城でアイドル魔王のライブが開催され、熱狂した魔物たちが村になだれ込んでくる！？",
     "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2860490/97b98ab7d670e0de4c3d292b0432a849551bc035/capsule_616x353_japanese.jpg?t=1792995452",
     "icon": "https://store.steampowered.com/favicon.ico"
-   }
+   },
+   "steam": 2860490,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2860490/930856057/640ae820926d180cc917ead5e3d022b714588e55/1776937486/hls_264_master.m3u8?t=1777104373",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257324864/5bc017a5e8b323c4356f54546d8bc180df2a79bf/movie_600x337.jpg?t=1777104373",
+     "name": "20260425 初報動画_JP"
+    }
+   ]
   }
  ],
  "highlight": 9,
