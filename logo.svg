@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 18">
+ <!-- らびっとらじお：うさぎの頭と、電波。プレーヤーはロゴを一色の型（mask）として使うので、黒一色で描く -->
+ <g fill="#000">
+  <ellipse cx="5.6" cy="4.6" rx="1.7" ry="4.3" transform="rotate(-14 5.6 4.6)"/>
+  <ellipse cx="10.4" cy="4.6" rx="1.7" ry="4.3" transform="rotate(14 10.4 4.6)"/>
+  <path fill-rule="evenodd" d="M8 7.2a5.2 4.8 0 1 1 0 9.6a5.2 4.8 0 1 1 0-9.6zM5.9 10.6a.8.9 0 1 0 0 1.8a.8.9 0 1 0 0-1.8zM10.1 10.6a.8.9 0 1 0 0 1.8a.8.9 0 1 0 0-1.8z"/>
+ </g>
+ <g fill="none" stroke="#000" stroke-width="1.5" stroke-linecap="round">
+  <path d="M15.4 9a4.6 4.6 0 0 1 0 6"/>
+  <path d="M18 6.6a8 8 0 0 1 0 10.8"/>
+ </g>
+</svg>
