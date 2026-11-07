@@ -568,9 +568,21 @@ function dockCheck() {
   root.classList.add("swap");   // the other stage at once: no gliding from the old places
   root.classList.toggle("dock", docked);
   root.classList.toggle("v", !docked);
+  placeVideo();
   requestAnimationFrame(() => requestAnimationFrame(() => root.classList.remove("swap")));
 }
-PHONE.addEventListener("change", () => { phoneLayout(); dockCheck(); });
+// the game's video belongs at the top of the left panel on the 16:9 stage, and in the card's picture slot on the
+// upright one: moved (not made again) when the stage changes, so it plays on from where it was
+function placeVideo() {
+  const v = document.querySelector(".bgv"); if (!v) return;
+  const inCard = document.documentElement.classList.contains("v"), card = $("card"), el = $("panel");
+  const home = inCard ? card : el;
+  if (v.parentNode !== home) { const playing = !v.paused; home.prepend(v); if (playing) v.play().catch(() => {}); }
+  card.classList.toggle("vid", inCard);
+  el.classList.toggle("has-video", !inCard);
+  fitPanel();
+}
+PHONE.addEventListener("change", () => { phoneLayout(); dockCheck(); placeVideo(); });
 addEventListener("scroll", dockCheck, { passive: true });
 phoneLayout();
 new ResizeObserver(([e]) => { $("stage").style.transform = `scale(${e.contentRect.width / $("stage").offsetWidth})`; }).observe($("frame"));
