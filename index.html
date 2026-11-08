@@ -128,10 +128,10 @@ main{max-width:1280px;margin:0 auto;padding:16px}
 #stage.has-card:has(#card:hover) #wx{opacity:0;pointer-events:none}
 }
 #panel{left:130px;top:150px;width:830px;height:780px;overflow:hidden;background:rgba(22,25,35,.82);border:1px solid var(--line);border-radius:18px;padding:56px 56px 40px}
-/* a game's videos (the script's news[].videos, from Steam): clear and large at the top of the left panel, muted,
+/* a game's videos (the script's news[].videos: Steam's trailers, YouTube's videos): clear and large at the top of the left panel, muted,
    one after another; the headline and the points sit below, smaller */
 #panel.has-video{padding:0}
-#panel .bgv{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:#000 center/cover no-repeat}
+#panel .bgv{display:block;width:100%;aspect-ratio:16/9;object-fit:cover;background:#000 center/cover no-repeat;border:0}
 #panel.has-video .fit{padding:24px 40px 20px}
 #panel.has-video .tag{font-size:22px;gap:12px}
 #panel.has-video .tag::before{height:26px}
@@ -391,7 +391,7 @@ html.v #toc button.corner.gap{margin-top:0;margin-left:14px}
 html.v #stage:has(#toc:hover) #toc{width:auto}
 html.v #panel{left:48px;top:256px;width:984px;height:744px;padding:44px 52px 32px}
 /* upright, the video takes the link card's picture (the big one at the top), and the panel keeps its words */
-#card .bgv{width:948px;height:440px;object-fit:cover;border-radius:8px;flex:none;background:#000 center/cover no-repeat}
+#card .bgv{width:948px;height:440px;object-fit:cover;border-radius:8px;flex:none;background:#000 center/cover no-repeat;border:0}
 #card.vid img{display:none}
 html.v #panel .tag{font-size:32px}
 html.v #panel h2{font-size:78px;margin:22px 0 34px}
@@ -572,12 +572,13 @@ function dockCheck() {
   requestAnimationFrame(() => requestAnimationFrame(() => root.classList.remove("swap")));
 }
 // the game's video belongs at the top of the left panel on the 16:9 stage, and in the card's picture slot on the
-// upright one: moved (not made again) when the stage changes, so it plays on from where it was
+// upright one: moved (not made again) when the stage changes, so a Steam video plays on from where it was
+// (YouTube's player starts over when it moves; it follows the show again once it has loaded)
 function placeVideo() {
   const v = document.querySelector(".bgv"); if (!v) return;
   const inCard = document.documentElement.classList.contains("v"), card = $("card"), el = $("panel");
   const home = inCard ? card : el;
-  if (v.parentNode !== home) { const playing = !v.paused; home.prepend(v); if (playing) v.play().catch(() => {}); }
+  if (v.parentNode !== home) { const playing = !isYT(v) && !v.paused; home.prepend(v); if (playing) vplay(v); }
   card.classList.toggle("vid", inCard);
   el.classList.toggle("has-video", !inCard);
   fitPanel();
@@ -808,12 +809,30 @@ $("panel").addEventListener("click", e => {
 $("panel").addEventListener("keydown", e => {
   if (e.target.matches("li.more") && (e.key === "Enter" || e.key === " ")) { e.preventDefault(); e.stopPropagation(); e.target.click(); }
 });
-// a game's videos at the top of the left panel: Steam serves them as HLS; Safari and Chrome play that themselves,
-// other browsers get hls.js (loaded only then). One after another, back to the first; muted; paused with the show
+// a game's videos at the top of the left panel (written by tools/videos.py). Steam's trailers come as HLS: Safari and
+// Chrome play that themselves, other browsers get hls.js (loaded only then), one after another, back to the first.
+// YouTube's play in YouTube's own player (youtube-nocookie.com), as a playlist that loops. Muted; paused with the show
 let HLS = null, hlsNow = null, vidToken = 0;
 const HLS_JS = "https://cdn.jsdelivr.net/npm/hls.js@1.7.4/dist/hls.min.js";
+const isYT = v => v?.tagName === "IFRAME";
+const ytCmd = (v, func) => v.contentWindow?.postMessage(JSON.stringify({ event: "command", func, args: [] }), "*");
+const vplay = v => { if (!v) return; if (isYT(v)) ytCmd(v, "playVideo"); else v.play().catch(() => {}); };
+const vpause = v => { if (!v) return; if (isYT(v)) ytCmd(v, "pauseVideo"); else v.pause(); };
+function ytSrc(list) {
+  const ids = list.map(m => m.youtube);
+  const q = new URLSearchParams({ autoplay: 1, mute: 1, controls: 0, playsinline: 1, rel: 0, loop: 1, playlist: ids.join(","), enablejsapi: 1, start: list[0].start || 0 });
+  return `https://www.youtube-nocookie.com/embed/${encodeURIComponent(ids[0])}?${q}`;
+}
+function videoTag(vids) {
+  const hls = vids.filter(m => m.hls), yt = vids.filter(m => m.youtube);
+  if (hls.length) return { list: hls, html: `<video class="bgv" muted playsinline preload="auto" aria-hidden="true" style="background-image:url('${esc(hls[0].poster || "")}')"></video>` };
+  if (yt.length) return { list: yt, html: `<iframe class="bgv" src="${esc(ytSrc(yt))}" title="${esc(yt[0].name || "YouTube")}" allow="autoplay; encrypted-media; picture-in-picture" referrerpolicy="strict-origin-when-cross-origin" style="background-image:url('${esc(yt[0].poster || "")}')"></iframe>` };
+  return null;
+}
 function stopVideos() { vidToken++; hlsNow?.destroy(); hlsNow = null; }
 async function playVideos(v, vids) {
+  // YouTube's player takes commands once it has loaded: then follow the show (playing or paused), a few times to be sure
+  if (isYT(v)) { v.addEventListener("load", () => [700, 1600, 3200].forEach(t => setTimeout(() => audio.paused ? vpause(v) : vplay(v), t))); return; }
   const token = ++vidToken; let k = 0;
   const native = !!v.canPlayType("application/vnd.apple.mpegurl");
   if (!native && !HLS) HLS = await new Promise(ok => { const s = document.createElement("script"); s.src = HLS_JS; s.onload = () => ok(window.Hls); s.onerror = () => ok(null); document.head.append(s); });
@@ -833,8 +852,8 @@ async function playVideos(v, vids) {
   v.addEventListener("error", () => { if (token === vidToken && ++k < vids.length * 2) load(); });
   load();
 }
-audio.addEventListener("play", () => document.querySelector(".bgv")?.play().catch(() => {}));
-audio.addEventListener("pause", () => document.querySelector(".bgv")?.pause());
+audio.addEventListener("play", () => vplay(document.querySelector(".bgv")));
+audio.addEventListener("pause", () => vpause(document.querySelector(".bgv")));
 function showPart(i) {
   if (i === curPart) return;
   curPart = i;
@@ -843,11 +862,11 @@ function showPart(i) {
   stopVideos();
   const inCard = document.documentElement.classList.contains("v"), card = $("card");   // upright: in the card's picture slot
   card.querySelector(".bgv")?.remove(); card.classList.remove("vid");
-  const vtag = vids?.length ? `<video class="bgv" muted playsinline preload="auto" aria-hidden="true" style="background-image:url('${esc(vids[0].poster || "")}')"></video>` : "";
+  const vt = vids?.length ? videoTag(vids) : null, vtag = vt?.html || "";
   el.innerHTML = (inCard ? "" : vtag) + `<div class="fit">${partHtml(seg)}</div>`;
   el.classList.toggle("has-video", !!vtag && !inCard);
   if (vtag && inCard) { card.insertAdjacentHTML("afterbegin", vtag); card.classList.add("vid"); }
-  if (vtag) playVideos((inCard ? card : el).querySelector(".bgv"), vids);
+  if (vtag) playVideos((inCard ? card : el).querySelector(".bgv"), vt.list);
   fitPanel();
   el.classList.remove("enter"); void el.offsetWidth; el.classList.add("enter");
   showCard(ep.segments[i].kind === "news" ? ep.news[ep.segments[i].index].link : null);

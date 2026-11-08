@@ -18,7 +18,7 @@
 
 1. **台本を書く**：`episodes/<日付>-ja.json`。話題ごとに見出し・要点・話す文・出典。新作紹介は `"corner": "pickup"`、1本を掘り下げるときは `"corner": "focus"` を付ける。形は [docs/formats.md](docs/formats.md)
 2. **リンクカード**：`python tools/linkcard.py <記事やストアのURL> ...`
-3. **ゲームの動画**：話題に `"steam": <アプリID>` を書いて `python tools/trailer.py episodes/<日付>-ja.json`。Steam の公式の動画（トレーラー・プレイ動画）が、その話題のあいだ左の枠に流れる
+3. **ゲームの動画**：`python tools/videos.py episodes/<日付>-ja.json`。話題に `"steam": <アプリID>` があれば Steam の公式の動画（トレーラー・プレイ動画）、`"youtube": [<動画のIDかURL>]` があればその YouTube の動画（スマホのゲームの PV など）が、その話題のあいだ左の枠に流れる（音なし）
 4. **声を吹き込む**：COEIROINK を起動して `python tools/voice.py episodes/<日付>-ja.json`
 5. **手元で見る**：`python tools/serve.py 8766` を動かして <http://127.0.0.1:8766/> を開く
 6. **放送する**：`main` にコミットして push し、`bash tools/publish-win.sh` を実行（Windows の Git Bash で）
@@ -33,4 +33,4 @@
 - 台本（`episodes/`、`episodes.json`）：CC0
 - 天気：Open-Meteo（CC BY 4.0）
 - ゲームの画像は、記事やストアのサイトが共有用に公開している画像（OGP）を、そのサイトから直接表示しています
-- ゲームの動画は、Steam のストアが配信している公式の動画を、Steam から直接再生しています（保存はしていません）。一部のブラウザでは再生に [hls.js](https://github.com/video-dev/hls.js)（Apache License 2.0）を使います
+- ゲームの動画は、Steam のストアが配信している公式の動画を Steam から直接、YouTube の動画を YouTube のプレーヤー（youtube-nocookie.com）で再生しています（保存はしていません）。一部のブラウザでは再生に [hls.js](https://github.com/video-dev/hls.js)（Apache License 2.0）を使います
