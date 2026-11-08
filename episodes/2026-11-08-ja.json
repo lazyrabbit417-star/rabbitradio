@@ -1,0 +1,813 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-08",
+ "lang": "ja",
+ "title": "質屋シムが100万本、ゴジラも復活",
+ "opening": [
+  {
+   "say": "らびっとらじお、はじまりました。十一月八日、日曜日。今日も、気になったパソコンゲームを特集します。",
+   "show": "らびっとらじお、はじまりました。11月8日日曜日、気になったPCゲーム特集です。"
+  },
+  {
+   "say": "今日は、ニュースが四本、新作紹介が五本、そして、じっくり紹介が一本です。",
+   "show": "ニュース4本・新作紹介5本・じっくり紹介1本。"
+  }
+ ],
+ "news": [
+  {
+   "label": "『ゴジラ 怪獣大乱闘』がリマスターで復活",
+   "points": [
+    "2002年のゲームキューブ版を、24年ぶりにリマスター",
+    "怪獣12体で対戦、オンライン対戦に新対応",
+    "Steamの評価は「圧倒的に好評」"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
+   "lines": [
+    {
+     "say": "まずは、懐かしの怪獣バトルの話題です。ゲームキューブで遊ばれた、ゴジラ 怪獣大乱闘が、リマスターになって、スチームなどで配信されました。",
+     "show": "まずは、ゲームキューブの『ゴジラ 怪獣大乱闘』がリマスターで復活。Steamなどで配信中。"
+    },
+    {
+     "say": "ゴジラやキングギドラ、メカゴジラなど、十二体の怪獣で戦う対戦アクション。ビルを持ち上げて、相手に投げつけることもできます。今回は、オンライン対戦にも対応しました。",
+     "show": "ゴジラ、キングギドラ、メカゴジラなど怪獣12体で対戦。ビルを投げつけることも。オンライン対戦に新対応。"
+    },
+    {
+     "say": "スチームの評価は、圧倒的に好評。子どものころの思い出がよみがえる、という声も出ています。",
+     "show": "Steamの評価は「圧倒的に好評」。「子ども時代へのラブレター」という声も。"
+    }
+   ],
+   "details": [
+    "Atariが11月3日、『Godzilla: Destroy All Monsters Melee Remastered』を配信しました。2002年にゲームキューブで出た『ゴジラ 怪獣大乱闘』のリマスターで、オリジナル版を作ったPipeworks Studiosが手がけています。PC（Steam）、PS5、Xbox Series X|S、Switch 2、Switchで遊べます。",
+    "Unreal Engine 5でグラフィックを作り直し、4Kにも対応。一方で、遊びの仕組みはオリジナル版を99％忠実に再現したとしています。最大4人のローカル対戦に加えて、オンライン対戦が新たに入りました。",
+    "Steamのレビューは約1,000件のうち95％が好評で「圧倒的に好評」（AUTOMATON）。Steam版は3,850円です。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
+    "title": "約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。最大4人オンライン対戦搭載、オリジナル版開発元が手がける懐かしの怪獣バトル",
+    "site": "AUTOMATON",
+    "description": "Atariは11月3日、『Godzilla: Destroy All Monsters Melee Remastered』を配信開始した。Steamユーザーレビューで「圧倒的に好評」ステータスを獲得するなど、注目を集めている。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478035-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
+   },
+   "steam": 4251460,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4251460/165294792/66da30c7e2787592244be785435e680e4dea868f/1793636006/hls_264_master.m3u8?t=1793714485",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257489030/f9476014012fa6f292e82df9c66891b04f52c2b4/movie_600x337.jpg?t=1793714485",
+     "name": "Godzilla: Destroy All Monsters Melee Remastered - Launch Trailer"
+    }
+   ]
+  },
+  {
+   "label": "『Chill with You』1周年、サトネの1年後",
+   "points": [
+    "11月25日に無料の大型ストーリーアプデ",
+    "サトネとの「1年後」を描く",
+    "作業場所を増やす有料DLCも"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261107-478056/",
+   "lines": [
+    {
+     "say": "つぎは、作業のおともに人気の、チルウィズユー、ローファイストーリーです。",
+     "show": "つぎは、作業用アドベンチャー『Chill with You : Lo-Fi Story』。"
+    },
+    {
+     "say": "発売一周年を記念して、十一月二十五日に、無料の大型ストーリーアップデート、君と見る夢が配信されます。小説好きの女の子、サトネとの、一年後が描かれます。",
+     "show": "1周年記念の無料大型アプデ「君と見る夢」が11月25日に。サトネとの「1年後」を描く。"
+    },
+    {
+     "say": "作業する場所を増やす、有料のダウンロードコンテンツも、パソコン版は同じ日に出ます。",
+     "show": "作業場所を増やす有料DLC「Room & Cozy Activity」も、PC版は同じ日に。"
+    }
+   ],
+   "details": [
+    "ネストピが11月7日に発表しました。『Chill with You : Lo-Fi Story』は、小説を書くのが好きな少女サトネの部屋を背景に、ポモドーロタイマーやToDoリストを使って作業する、作業用アドベンチャーです。",
+    "無料の大型ストーリーアップデート「君と見る夢」は、全プラットフォームで11月25日に配信。リリース後はじめてメインストーリーが追加され、サトネとの1年後が描かれます。",
+    "有料DLC「Room & Cozy Activity」は、PC（Steam）版が11月25日、iOS/Android版が12月上旬の予定で、価格は未定。本編のSteamレビューは約1万3,000件で98％が好評の「圧倒的に好評」です（AUTOMATON）。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261107-478056/",
+    "title": "文学少女との作業集中アプリ『Chill with You : Lo-Fi Story』、「サトネの1年後」が描かれる無料大型アプデを11月25日配信へ。“作業場所追加DLC”もお披露目",
+    "site": "AUTOMATON",
+    "description": "ネストピは11月7日、『Chill with You : Lo-Fi Story』の発売1周年記念として、無料大型ストーリーアプデ「君と見る夢」と、有料DLC「Room & Cozy Activity」を発表した。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478056-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
+   },
+   "steam": 3548580,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3548580/1715448710/92b7d100700ca5b3d0eecd5ae0daff63bedc073e/1750859747/hls_264_master.m3u8?t=1762775089",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153328/47eade7dd9f5d0c4fd9a0297866d7862b36a6a55/movie_600x337.jpg?t=1762775089",
+     "name": "PV"
+    }
+   ]
+  },
+  {
+   "label": "『ゼンゼロ』にロビンとカフカ",
+   "points": [
+    "『崩壊：スターレイル』コラボの戦闘PVが公開",
+    "ロビンは歌、カフカは刀と糸と2丁撃ち",
+    "Ver.3.4で登場予定"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/07/174615.html",
+   "lines": [
+    {
+     "say": "つぎは、ゼンレスゾーンゼロと、崩壊スターレイルのコラボです。",
+     "show": "つぎは『ゼンレスゾーンゼロ』×『崩壊：スターレイル』のコラボ。"
+    },
+    {
+     "say": "コラボで登場する、ロビンとカフカの、戦闘のプロモーション映像が公開されました。ロビンは歌の力で、カフカは刀や糸、二丁のサブマシンガンで戦います。",
+     "show": "コラボキャラ「ロビン」「カフカ」の戦闘PVが公開。ロビンは歌、カフカは刀・糸・サブマシンガン2丁で戦う。"
+    },
+    {
+     "say": "必殺技の演出は、スターレイルの必殺技を意識したもの。二人は、バージョン三点四で登場する予定です。",
+     "show": "終結スキルは『スターレイル』の必殺技を意識した演出。Ver.3.4で登場予定。"
+    }
+   ],
+   "details": [
+    "HoYoverseが、『ゼンレスゾーンゼロ』の『崩壊：スターレイル』コラボキャラクター「ロビン」「カフカ」の戦闘PVを公開しました（Game*Spark）。",
+    "ロビンは歌の力で戦い、カフカは刀や糸、サブマシンガンの2丁撃ちを使います。終結スキルは『崩壊：スターレイル』の必殺技を意識した演出です。",
+    "ロビンはエーテル属性の防護エージェント、カフカは電気属性の異常エージェントとして、Ver.3.4で登場予定。本作はPC（Steamなど）、スマホ、PS5、Xbox Series X|Sで、基本無料で遊べます。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/07/174615.html",
+    "title": "カフカの「ボンッ」も再現！『ゼンゼロ』×『崩壊：スターレイル』コラボキャラの戦闘PV公開―ロビンたちがオリジナルの動きそのままに本格アクション",
+    "site": "Game*Spark",
+    "description": "ロビンは歌唱の力で、カフカは刀・糸・サブマシンガンの2丁撃ちといった『崩壊：スターレイル』の動きそのままに本格アクション！",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1216703.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "label": "Steamアワード10周年、新部門は2つ",
+   "points": [
+    "「これが今の私の仕事」部門を新設",
+    "歴代の大賞から選ぶ「殿堂の中の殿堂」も",
+    "ノミネートは11月23日から"
+   ],
+   "url": "https://www.gamespark.jp/article/2026/11/07/174598.html",
+   "lines": [
+    {
+     "say": "ニュースの最後は、スチームアワードです。ユーザーの投票で、その年のゲームを選ぶ賞が、今年で十周年。新しい部門が、二つ加わります。",
+     "show": "ニュースの最後は「Steamアワード」。ユーザー投票で選ぶ賞が10周年、新部門が2つ。"
+    },
+    {
+     "say": "ひとつは、遊ぶことが、もはや仕事になってしまったゲームを選ぶ、これが今の私の仕事、部門。もうひとつは、これまでの大賞から、いちばんのお気に入りを選ぶ、殿堂の中の殿堂です。",
+     "show": "「これが今の私の仕事」部門と、歴代の大賞から選ぶ「殿堂の中の殿堂」が新設。"
+    },
+    {
+     "say": "ノミネートは、十一月二十三日から三十日まで。投票は、ウィンターセールが始まる、十二月十七日からです。",
+     "show": "ノミネートは11月23日〜30日、投票は12月17日のウィンターセール開始から。"
+    }
+   ],
+   "details": [
+    "Valveが、コミュニティの投票で受賞作を選ぶ「Steamアワード」を今年も開くと告知しました。今年で10周年です（Game*Spark）。",
+    "新しい部門は、遊ぶことがもはや仕事のようになったゲームの「This Is My Job Now（これが今の私の仕事）」と、過去の「Game of the Year」受賞作からいちばんのお気に入りを選ぶ「Hall of Fame of the Hall of Fame（殿堂の中の殿堂）」の2つです。",
+    "ノミネートは現地時間11月23日から30日まで。投票は「Steamウィンターセール」が始まる12月17日から受け付けます。"
+   ],
+   "link": {
+    "url": "https://www.gamespark.jp/article/2026/11/07/174598.html",
+    "title": "コミュニティが選ぶ「Steamアワード」は今年で10周年！ 2026年は2つの新カテゴリも登場",
+    "site": "Game*Spark",
+    "description": "現地時間11月23日から30日までノミネーションが行われ、投票は「Steamウィンターセール」が始まる12月17日より受け付けを行います。",
+    "image": "https://www.gamespark.jp/imgs/ogp_f/1216547.jpg",
+    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
+   }
+  },
+  {
+   "corner": "pickup",
+   "label": "タヌキのひと夏『TANUKI: Pon's Summer』",
+   "points": [
+    "11月10日発売、日本の島で1か月を過ごす",
+    "BMXで郵便配達、神社を建て直す",
+    "寿司、野球、相撲のお誘いも"
+   ],
+   "url": "https://store.steampowered.com/app/3218570/",
+   "lines": [
+    {
+     "say": "ここからは、新作紹介のコーナー。まずは、十一月十日発売の、タヌキ、ポンの夏。",
+     "show": "ここからは新作紹介。まずは11月10日発売『TANUKI: Pon's Summer』。"
+    },
+    {
+     "say": "日本の島で、自転車に乗る小さなタヌキ、ポンになって、ひと夏を過ごします。郵便局でアルバイトをしながら、荒れ放題の神社を、お祭りまでに建て直すのが目標です。",
+     "show": "日本の島で、タヌキのポンになってひと夏。郵便局で働きながら、大タヌキ祭までに神社を建て直す。"
+    },
+    {
+     "say": "島の人と仲良くなると、お寿司づくりや野球、相撲にも誘われます。BMXのトリックに挑む、百を超えるチャレンジもあります。",
+     "show": "島の人と仲良くなると、寿司・野球・相撲のお誘いも。BMXのチャレンジは100以上。"
+    }
+   ],
+   "details": [
+    "開発はDenkiworks、販売はCRITICAL REFLEX。日本の島で、BMXに乗る小さなタヌキ「ポン」として、まるまる1か月を過ごすゲームです。",
+    "郵便局のアルバイトで、島の住民に手紙や小包を届けます。稼いだお金や報酬で神社を修復し、自分好みに飾りつけて、大タヌキ祭を迎えます。",
+    "寿司づくり、野球、相撲などのアクティビティや、100を超えるBMXチャレンジも。『Hollow Knight: Silksong』『PEAK』などをモチーフにしたコラボ帽子もあります。Steamに体験版があります。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/3218570/",
+    "title": "Steam：TANUKI: Pon's Summer  - タヌキ： ポンの夏",
+    "site": "store.steampowered.com",
+    "description": "タヌキ祭りまで1か月しかないのに神社は荒れ放題。ちょっと怠け者のタヌキのポンとなり、郵便局で働きながら夏が終わる前に神社を建て直そう。小包を届け、友達を作り、立派な神社を建ててタヌキ祭りを迎えるんだ！",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218570/b18c940a55b3757507b5a169181095c67c345925/capsule_616x353_japanese.jpg?t=1793920683",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 3218570,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3218570/717175684/6c3e2978cf15cbde24de4eb7bab1685552a2d099/1793272159/hls_264_master.m3u8?t=1793287082",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257484071/f614437e2555ec239d54af71a3df64894cbf401c/movie_600x337.jpg?t=1793287082",
+     "name": "Release Date Trailer JP"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "敵の大群をなぎ払う『Warhammer Survivors』",
+   "points": [
+    "11月10日発売の「弾幕サバイバル」",
+    "『Vampire Survivors』のponcleと組んだ公式作",
+    "キャラは40人以上、武器は75種類以上"
+   ],
+   "url": "https://store.steampowered.com/app/3669620/",
+   "lines": [
+    {
+     "say": "つぎも、十日発売の、ウォーハンマー サバイバーズ。",
+     "show": "つぎも10日発売『Warhammer Survivors』。"
+    },
+    {
+     "say": "押し寄せる敵の大群を、どんどん強くなる武器でなぎ払う、弾幕サバイバルのアクションです。ヴァンパイアサバイバーズのポンクルと組んで作られた、公式のライセンス作品。",
+     "show": "敵の大群を武器でなぎ払う「弾幕サバイバル」。『Vampire Survivors』のponcleと組んだ公式ライセンス作。"
+    },
+    {
+     "say": "ウォーハンマーの二つの世界から、四十人以上のキャラクターが登場。武器は七十五種類以上で、組み合わせて進化させられます。",
+     "show": "Warhammerの2つの世界から40人以上が参戦。武器は75種類以上、組み合わせて進化。"
+    }
+   ],
+   "details": [
+    "開発は『Warhammer 40,000: Boltgun』のAuroch Digital。Warhammer、そして『Vampire Survivors』のponcleとのタッグで作られた公式ライセンスのゲームです。",
+    "『Warhammer 40,000』と『Warhammer Age of Sigmar』の両方の世界から、40人以上のキャラクターを操作できます。キャラクターごとに武器と初期ステータスが違います。",
+    "武器は75種類以上。武器とパワーアップを組み合わせて進化させます。画面を埋めつくすほどの巨大なボスも。Steamに体験版があります。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/3669620/",
+    "title": "Steam：Warhammer Survivors",
+    "site": "store.steampowered.com",
+    "description": "『Warhammer 40,000: Boltgun』の開発陣が手がける、過酷でダークな世界観の公式「弾幕サバイバル」アクション『Warhammer Survivors』が登場。『Warhammer 40,000』と『Warhammer Age of Sigmar』の両ユニバースから名だたるチャンピオンたち40名以上を操り、死と破壊をもたらす敵を打ち砕け。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3669620/551bc7d10ffe0dab2dceeb6add75cf47a2e4d8ac/capsule_616x353.jpg?t=1792417110",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 3669620,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3669620/1298110492/15e10450c209ec96d29d926b8016e69705971b41/1791200757/hls_264_master.m3u8?t=1791295547",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257447030/f74077e01a0bc40b444095eb2ced8d69fb73b366/movie_600x337.jpg?t=1791295547",
+     "name": "Release Date Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3669620/1959176646/c78aca53033a158586b614fd0e56a2fb6bcfc121/1779378209/hls_264_master.m3u8?t=1779380165",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257340865/2a345dbc268aedebdf207ec65d7d18d8c83e9cb9/movie_600x337.jpg?t=1779380165",
+     "name": "Warhammer Survivors Skulls Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3669620/1770356543/60e54cc41c2d0ea713a1315750c3e6820b1eeb26/1775758944/hls_264_master.m3u8?t=1775760583",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316957/83b564da63f37fdf0e8b62fd0af0cb4b5398bf38/movie_600x337.jpg?t=1775760583",
+     "name": "Warhammer Survivors Gameplay Trailer"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "ソニックが来た『SONIC PICO PARK』",
+   "points": [
+    "11月12日発売の協力アクションパズル",
+    "2〜8人で、全員そろってゴールへ",
+    "スピンダッシュ、リング、ループも"
+   ],
+   "url": "https://store.steampowered.com/app/4304060/",
+   "lines": [
+    {
+     "say": "つぎは、十一月十二日発売の、ソニック、ピコパーク。",
+     "show": "つぎは11月12日発売『SONIC PICO PARK』。"
+    },
+    {
+     "say": "みんなで力を合わせないとクリアできない、協力アクションパズル、ピコパークに、セガのソニックがやってきました。ルールは、全員でゴールにたどり着くだけ。",
+     "show": "協力必須のアクションパズル『PICO PARK』に、セガの『ソニック』がやってきた。ルールは全員でゴールするだけ。"
+    },
+    {
+     "say": "全員がスピンダッシュを使えて、リングやループ、スプリングなど、ソニックらしい仕掛けがいっぱい。二人から八人まで、オンラインでも遊べます。",
+     "show": "全員スピンダッシュOK。リング、ループ、スプリングも。2〜8人、オンラインでも。"
+    }
+   ],
+   "details": [
+    "開発はTECOPARK。多人数協力型アクションパズル『PICO PARK』シリーズの最新作で、セガの『ソニック・ザ・ヘッジホッグ』とのコラボです。",
+    "ローカルでもオンラインでも、2人から最大8人で遊べて、どの人数でも全部のコンテンツを遊べます。オンラインはクロスプレイに対応し、1台のPCから最大7人まで参加できます。",
+    "全員がスピンダッシュを使えるほか、リング、ループ、スプリングなど、ソニックならではのギミックが登場します。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/4304060/",
+    "title": "Steam：SONIC PICO PARK",
+    "site": "store.steampowered.com",
+    "description": "多人数協力型アクションパズルゲーム『PICO PARK』シリーズの最新作は、なんとSEGA『ソニック・ザ・ヘッジホッグ』とのコラボレーション！ 『ソニック』らしさと『PICO PARK』らしさを兼ね備えた協力プレイがたくさん！ ローカル/オンラインにて2人から最大8人まで遊べるよ！",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304060/446e1fe4adc9b65992cde0f53d119de7abe62f6e/capsule_616x353.jpg?t=1792544482",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 4304060,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4304060/2117848526/be335739d636f8e54a4c2870e0444cfd336fa558/1780642793/hls_264_master.m3u8?t=1780798523",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257343714/421ec0bd8ad1073b472dab090f0f89e0f33cd9ce/movie_600x337.jpg?t=1780798523",
+     "name": "AnnounceTrailer_JP"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "描いた魚が泳ぐ『Drawquarium』",
+   "points": [
+    "11月13日発売の水槽サンドボックス",
+    "自分で描いた魚や水草が動き出す",
+    "動くデスクトップ壁紙にもできる"
+   ],
+   "url": "https://store.steampowered.com/app/4045480/",
+   "lines": [
+    {
+     "say": "つぎは、十一月十三日発売の、ドロークアリウム。",
+     "show": "つぎは11月13日発売『Drawquarium ドロークアリウム』。"
+    },
+    {
+     "say": "自分で描いた魚や水草が、水槽の中で動き出す、のんびりしたゲームです。魚どうしが友だちになったり、恋をして、赤ちゃんが生まれたりもします。",
+     "show": "自分で描いた魚や水草が、水槽で動き出す。魚どうしで友だちになったり、恋をしたり。"
+    },
+    {
+     "say": "水槽は、動くデスクトップの壁紙にもできて、タイマーやタスクリストもついています。絵が苦手でも、用意された魚で楽しめますよ。",
+     "show": "水槽は動く壁紙にもできる。タイマーやタスクリストつき。絵が苦手でも、用意された魚でOK。"
+    }
+   ],
+   "details": [
+    "作者は、映画業界で3Dアーティストとして働くKalebさん。販売はrokaplay。自分で描いた絵が動き出す、水槽のサンドボックスゲームです。",
+    "魚に餌をあげて育て、金色のウロコを集めて、新しい飾りやツールを解放します。PNG画像を読みこんで、水槽に入れることもできます。",
+    "デスクトップ壁紙モードのほか、日記、タスクリスト、タイマー、時計も。Steamに体験版があります。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/4045480/",
+    "title": "Steam：Drawquarium ドロークアリウム",
+    "site": "store.steampowered.com",
+    "description": "自分で描いた魚たちと、ほっこり癒やされる小さな水槽を作ろう。アニメーションするデスクトップ壁紙にもできるよ！ 絵が動き出す様子を眺め、餌をあげて育てながら金のウロコを集め、新しい飾りを解放しよう。集中やリラックスに役立つ便利なツールもあるよ。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4045480/96b6912dfd6cd9e737552fc3634bda96b61d82c1/capsule_616x353_japanese.jpg?t=1793875400",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 4045480,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4045480/1422406994/bb795b2a745903469648a243df734fdafbaf9230/1760358637/hls_264_master.m3u8?t=1760649191",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257216095/47058a078407aeb47cdc7ba08edaa22083efbf5d/movie_600x337.jpg?t=1760649191",
+     "name": "Gameplay Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4045480/1785634319/9ae52ced5b0aab09f30b30f76aa1b22f80f5e7d7/1776513098/hls_264_master.m3u8?t=1776513490",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257321844/fc4f6cf780a7ae90f8d0fc4d7b943acefde64f69/movie_600x337.jpg?t=1776513490",
+     "name": "Demo Annoucment Trailer"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "雲の上の暮らし『クロスランド』",
+   "points": [
+    "11月16日発売、『コージーグローブ』の開発元の新作",
+    "雲の上で精霊を助けて、山頂に家を建てる",
+    "ほかのプレイヤーは、はじめは影の姿"
+   ],
+   "url": "https://store.steampowered.com/app/2321960/",
+   "lines": [
+    {
+     "say": "新作紹介の最後は、十一月十六日発売の、クロスランド、せいれいたちとつむぐせかい。",
+     "show": "新作紹介の最後は11月16日発売『クロスランド せいれいたちとつむぐせかい』。"
+    },
+    {
+     "say": "パステルカラーの雲の上で、迷子の精霊を助けながら、山のてっぺんに、自分の家を建てる、マルチプレイのライフシムです。",
+     "show": "雲の上で、迷子の精霊を助けながら、山のてっぺんに家を建てる、マルチプレイのライフシム。"
+    },
+    {
+     "say": "ほかのプレイヤーは、はじめは影の姿。ハイタッチをしたり、一緒に遊んだりすると、色がついて、姿が見えてきます。",
+     "show": "ほかのプレイヤーは最初は影。ハイタッチや一緒に遊ぶと、色がついて姿が見える。"
+    }
+   ],
+   "details": [
+    "開発は『コージーグローブ』のSpry Fox。英語のタイトルは『Spirit Crossing』です。",
+    "魔法の嵐が吹き荒れる雲の上の世界で、コミュニティの再建や精霊の手当てなどのクエストに取り組みます。精霊の言葉がわかるようになると、珍しいアイテムや物語が明かされます。",
+    "ほかの人と会いたくないときは、出会わない設定にもできます。嵐のときは、みんなでたき火を囲んで、音楽を奏でたり、おしゃべりしたり。Steamに体験版があります。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/2321960/",
+    "title": "Steam：クロスランド せいれいたちとつむぐせかい",
+    "site": "store.steampowered.com",
+    "description": "『コージーグローブ』の制作陣が贈る最新作！】パステルカラーの雲の間をグライダーで飛び、迷子になった精霊を助けながら、高くそびえる山頂に自分だけの理想の家をデザインできるマルチプレイヤーライフシム。あたたかいキャンプファイヤーを囲んで見知らぬ誰かと友達になったり、並んでのんびり空を飛び、雲海を泳ぐ魚を釣って思い出を分かち合ったり。不思議で愛おしい「新たな我が家」へようこそ。🏠🏔️",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2321960/371039d51cc7cca799327dcbcb3f2e92a4848ab9/capsule_616x353.jpg?t=1793313658",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 2321960,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2321960/1925082216/534aa372ba53c0b2c2a8981da9c49324cd8efcd2/1793313020/hls_264_master.m3u8?t=1793313592",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257484787/f24b35f331ab32c296b089c8982a6a0264380e3d/movie_600x337.jpg?t=1793313592",
+     "name": "Public Playtest Trailer (Japanese)"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2321960/1094688857/25ef1b77f594ac584f0693366f1b4eb1fb45d427/1764807342/hls_264_master.m3u8?t=1765307670",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243277/397bc8fdf0771929ca5171dfcae8997bb32ccf57/movie_600x337.jpg?t=1765307670",
+     "name": "Steam Announcement Trailer"
+    }
+   ]
+  },
+  {
+   "corner": "focus",
+   "label": "サイバーパンクの質屋『Probably Stolen』",
+   "points": [
+    "発売10日で100万本、評価は「圧倒的に好評」",
+    "宇宙ステーションの下層で質屋を経営",
+    "偽物を見抜き、怪しい客とも取引",
+    "Steamで1,799円（12日まで10%オフ）"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261107-477965/",
+   "lines": [
+    {
+     "say": "最後は、じっくり紹介のコーナー。今日は、発売から十日で、百万本を売り上げた、プロバブリー ストールン。サイバーパンクの世界で、質屋を営むゲームです。",
+     "show": "最後はじっくり紹介。今日は、発売10日で100万本の『Probably Stolen』。サイバーパンクの質屋経営シム。"
+    },
+    {
+     "say": "舞台は、富と腐敗で分断された、巨大な宇宙ステーションの下層。借金をして店を構えたプレイヤーは、毎週上がっていく家賃を払いながら、最後は店を買い取るのが目標です。",
+     "show": "舞台は、巨大宇宙ステーションの下層。毎週上がる家賃を払いながら、店を買い取るのが目標。"
+    },
+    {
+     "say": "お客さんは、品物を売りに来る人、買いに来る人、物々交換を持ちかける人など、さまざま。中には偽物を持ちこむ人もいるので、手引き書を見ながら、本物かどうかを見きわめます。",
+     "show": "客は売りに来たり、買いに来たり、物々交換を持ちかけたり。偽物は手引書で見きわめる。"
+    },
+    {
+     "say": "ときには、指名手配の犯人や、暴走したエーアイチップに乗っ取られた人もやってきます。通報するか、見て見ぬふりをするか。まっとうな店にするのも、怪しい店にするのも、自分しだいです。",
+     "show": "指名手配犯や、AIチップに乗っ取られた「AI人間」も来店。まっとうな店にも、怪しい店にもできる。"
+    },
+    {
+     "say": "最初に、銃や水、農作物など、扱う商売を選べます。選んだ商売によって、もうけ方も、つきまとう危険も変わります。",
+     "show": "最初に、銃・水・農作物など商売の役割を選ぶ。もうけ方も、リスクも、それぞれ違う。"
+    },
+    {
+     "say": "スチームの評価は、圧倒的に好評。十二月からは、無料のアップデートが続く予定です。十二日までは一割引きの、千七百九十九円ですよ。",
+     "show": "Steamの評価は「圧倒的に好評」。12月から無料アプデが続く予定。12日まで10%オフの1,799円。"
+    }
+   ],
+   "details": [
+    "開発はQuesting Goose Studio、販売はtinyBuild。10月28日にPC（Steam）で発売され、日本語に対応しています。tinyBuildは11月7日、売上が100万本を超えたと発表しました（AUTOMATON）。",
+    "客の持ちこむ品の買取・販売・物々交換で利益を上げます。偽造品は手引書で鑑定。禁制品や密輸品など、リスクのある品をどう扱うかも大事です。指名手配犯は通報すると謝礼が出ますが、構わず取引もできます。",
+    "最初に、銃工、化学者、水商人、闇商人、農家などの役割を選べます。武器を扱えば検査が、水を扱えば法的責任がつきまとうなど、商品の系列ごとに、もうけ方と危険が違います。",
+    "Steamのレビューは約1万1,000件で97％が好評。開発元は、12月から来年4月まで、新しい商品やキャラクターを加える無料アップデートを続ける予定です。11月12日までは10％オフの1,799円。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261107-477965/",
+    "title": "“圧倒的に好評”サイバーパンク質屋シム『Probably Stolen』、売上100万本突破。発売10日で大台到達、自由すぎる怪しげショップ経営が一躍大ヒット",
+    "site": "AUTOMATON",
+    "description": "tinyBuildは11月7日、『Probably Stolen』の売上が100万本を突破したと発表した。発売から約10日での大台到達となる。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477965-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
+   },
+   "steam": 4348910,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4348910/1029376199/a658a0ad7992fdb9eba32eadff946e0d84c4d06c/1793112587/hls_264_master.m3u8?t=1793192060",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257480740/b183111f9da804a069d69d8da96563b0203c5e52/movie_600x337.jpg?t=1793192060",
+     "name": "Launch trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4348910/1511229995/1000cfde02cce52682efefbb4152c25621478d59/1787553586/hls_264_master.m3u8?t=1789399826",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257406951/7843162258cfabf4568cc07bb1933f2e3c9898ca/movie_600x337.jpg?t=1789399826",
+     "name": "Release Date + Demo Launch Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4348910/1236906822/9b862bf16c72e9bf9a98cef888662696dc2abd83/1784923250/hls_264_master.m3u8?t=1785772229",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257319962/24ea27c7f556f4b00846ae57040a735d46d0a42b/movie_600x337.jpg?t=1785772229",
+     "name": "Probably Stolen - Announcement Trailer"
+    }
+   ]
+  }
+ ],
+ "highlight": 9,
+ "closing": [
+  {
+   "say": "今日は、懐かしの怪獣バトルから、来週の新作、そしてサイバーパンクの質屋まで、気になるゲームをたっぷり紹介しました。",
+   "show": "懐かしの怪獣バトルから、来週の新作、サイバーパンクの質屋まで、気になるゲームをたっぷり紹介しました。"
+  },
+  {
+   "say": "来週は、ソニック ピコパークや、タヌキのひと夏など、新作が続きます。",
+   "show": "来週は『SONIC PICO PARK』や『TANUKI』など、新作が続きます。"
+  },
+  {
+   "say": "それではまた、らびっとらじおでお会いしましょう。",
+   "show": "それではまた、らびっとらじおで。"
+  }
+ ],
+ "seconds": 340.2,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 8.126,
+   "show": "らびっとらじお、はじまりました。11月8日日曜日、気になったPCゲーム特集です。",
+   "part": 0
+  },
+  {
+   "start": 8.376,
+   "end": 14.485,
+   "show": "ニュース4本・新作紹介5本・じっくり紹介1本。",
+   "part": 0
+  },
+  {
+   "start": 15.285,
+   "end": 25.4,
+   "show": "まずは、ゲームキューブの『ゴジラ 怪獣大乱闘』がリマスターで復活。Steamなどで配信中。",
+   "part": 1
+  },
+  {
+   "start": 25.65,
+   "end": 37.53,
+   "show": "ゴジラ、キングギドラ、メカゴジラなど怪獣12体で対戦。ビルを投げつけることも。オンライン対戦に新対応。",
+   "part": 1
+  },
+  {
+   "start": 37.78,
+   "end": 44.18,
+   "show": "Steamの評価は「圧倒的に好評」。「子ども時代へのラブレター」という声も。",
+   "part": 1
+  },
+  {
+   "start": 44.98,
+   "end": 49.545,
+   "show": "つぎは、作業用アドベンチャー『Chill with You : Lo-Fi Story』。",
+   "part": 2
+  },
+  {
+   "start": 49.795,
+   "end": 62.429,
+   "show": "1周年記念の無料大型アプデ「君と見る夢」が11月25日に。サトネとの「1年後」を描く。",
+   "part": 2
+  },
+  {
+   "start": 62.679,
+   "end": 68.324,
+   "show": "作業場所を増やす有料DLC「Room & Cozy Activity」も、PC版は同じ日に。",
+   "part": 2
+  },
+  {
+   "start": 69.124,
+   "end": 73.005,
+   "show": "つぎは『ゼンレスゾーンゼロ』×『崩壊：スターレイル』のコラボ。",
+   "part": 3
+  },
+  {
+   "start": 73.255,
+   "end": 84.182,
+   "show": "コラボキャラ「ロビン」「カフカ」の戦闘PVが公開。ロビンは歌、カフカは刀・糸・サブマシンガン2丁で戦う。",
+   "part": 3
+  },
+  {
+   "start": 84.432,
+   "end": 91.947,
+   "show": "終結スキルは『スターレイル』の必殺技を意識した演出。Ver.3.4で登場予定。",
+   "part": 3
+  },
+  {
+   "start": 92.747,
+   "end": 102.606,
+   "show": "ニュースの最後は「Steamアワード」。ユーザー投票で選ぶ賞が10周年、新部門が2つ。",
+   "part": 4
+  },
+  {
+   "start": 102.856,
+   "end": 115.56,
+   "show": "「これが今の私の仕事」部門と、歴代の大賞から選ぶ「殿堂の中の殿堂」が新設。",
+   "part": 4
+  },
+  {
+   "start": 115.81,
+   "end": 124.125,
+   "show": "ノミネートは11月23日〜30日、投票は12月17日のウィンターセール開始から。",
+   "part": 4
+  },
+  {
+   "start": 124.925,
+   "end": 131.801,
+   "show": "ここからは新作紹介。まずは11月10日発売『TANUKI: Pon's Summer』。",
+   "part": 5
+  },
+  {
+   "start": 132.051,
+   "end": 143.815,
+   "show": "日本の島で、タヌキのポンになってひと夏。郵便局で働きながら、大タヌキ祭までに神社を建て直す。",
+   "part": 5
+  },
+  {
+   "start": 144.065,
+   "end": 153.065,
+   "show": "島の人と仲良くなると、寿司・野球・相撲のお誘いも。BMXのチャレンジは100以上。",
+   "part": 5
+  },
+  {
+   "start": 153.865,
+   "end": 157.56,
+   "show": "つぎも10日発売『Warhammer Survivors』。",
+   "part": 6
+  },
+  {
+   "start": 157.81,
+   "end": 168.842,
+   "show": "敵の大群を武器でなぎ払う「弾幕サバイバル」。『Vampire Survivors』のponcleと組んだ公式ライセンス作。",
+   "part": 6
+  },
+  {
+   "start": 169.092,
+   "end": 177.535,
+   "show": "Warhammerの2つの世界から40人以上が参戦。武器は75種類以上、組み合わせて進化。",
+   "part": 6
+  },
+  {
+   "start": 178.335,
+   "end": 182.796,
+   "show": "つぎは11月12日発売『SONIC PICO PARK』。",
+   "part": 7
+  },
+  {
+   "start": 183.046,
+   "end": 193.01,
+   "show": "協力必須のアクションパズル『PICO PARK』に、セガの『ソニック』がやってきた。ルールは全員でゴールするだけ。",
+   "part": 7
+  },
+  {
+   "start": 193.26,
+   "end": 202.318,
+   "show": "全員スピンダッシュOK。リング、ループ、スプリングも。2〜8人、オンラインでも。",
+   "part": 7
+  },
+  {
+   "start": 203.118,
+   "end": 207.196,
+   "show": "つぎは11月13日発売『Drawquarium ドロークアリウム』。",
+   "part": 8
+  },
+  {
+   "start": 207.446,
+   "end": 217.503,
+   "show": "自分で描いた魚や水草が、水槽で動き出す。魚どうしで友だちになったり、恋をしたり。",
+   "part": 8
+  },
+  {
+   "start": 217.753,
+   "end": 226.742,
+   "show": "水槽は動く壁紙にもできる。タイマーやタスクリストつき。絵が苦手でも、用意された魚でOK。",
+   "part": 8
+  },
+  {
+   "start": 227.542,
+   "end": 234.22,
+   "show": "新作紹介の最後は11月16日発売『クロスランド せいれいたちとつむぐせかい』。",
+   "part": 9
+  },
+  {
+   "start": 234.47,
+   "end": 242.495,
+   "show": "雲の上で、迷子の精霊を助けながら、山のてっぺんに家を建てる、マルチプレイのライフシム。",
+   "part": 9
+  },
+  {
+   "start": 242.745,
+   "end": 250.863,
+   "show": "ほかのプレイヤーは最初は影。ハイタッチや一緒に遊ぶと、色がついて姿が見える。",
+   "part": 9
+  },
+  {
+   "start": 251.663,
+   "end": 262.811,
+   "show": "最後はじっくり紹介。今日は、発売10日で100万本の『Probably Stolen』。サイバーパンクの質屋経営シム。",
+   "part": 10
+  },
+  {
+   "start": 263.061,
+   "end": 274.987,
+   "show": "舞台は、巨大宇宙ステーションの下層。毎週上がる家賃を払いながら、店を買い取るのが目標。",
+   "part": 10
+  },
+  {
+   "start": 275.237,
+   "end": 288.197,
+   "show": "客は売りに来たり、買いに来たり、物々交換を持ちかけたり。偽物は手引書で見きわめる。",
+   "part": 10
+  },
+  {
+   "start": 288.447,
+   "end": 301.093,
+   "show": "指名手配犯や、AIチップに乗っ取られた「AI人間」も来店。まっとうな店にも、怪しい店にもできる。",
+   "part": 10
+  },
+  {
+   "start": 301.343,
+   "end": 310.355,
+   "show": "最初に、銃・水・農作物など商売の役割を選ぶ。もうけ方も、リスクも、それぞれ違う。",
+   "part": 10
+  },
+  {
+   "start": 310.605,
+   "end": 321.254,
+   "show": "Steamの評価は「圧倒的に好評」。12月から無料アプデが続く予定。12日まで10%オフの1,799円。",
+   "part": 10
+  },
+  {
+   "start": 322.054,
+   "end": 330.555,
+   "show": "懐かしの怪獣バトルから、来週の新作、サイバーパンクの質屋まで、気になるゲームをたっぷり紹介しました。",
+   "part": 11
+  },
+  {
+   "start": 330.805,
+   "end": 336.287,
+   "show": "来週は『SONIC PICO PARK』や『TANUKI』など、新作が続きます。",
+   "part": 11
+  },
+  {
+   "start": 336.537,
+   "end": 339.396,
+   "show": "それではまた、らびっとらじおで。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 15.285
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 15.285,
+   "end": 44.98
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 44.98,
+   "end": 69.124
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 69.124,
+   "end": 92.747
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 92.747,
+   "end": 124.925
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 124.925,
+   "end": 153.865
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 153.865,
+   "end": 178.335
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 178.335,
+   "end": 203.118
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 203.118,
+   "end": 227.542
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 227.542,
+   "end": 251.663
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 251.663,
+   "end": 322.054
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 322.054,
+   "end": 340.196
+  }
+ ],
+ "made_at": "2026-11-08T10:10:56"
+}
