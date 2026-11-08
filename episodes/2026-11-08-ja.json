@@ -2,11 +2,11 @@
  "format": "monoradio/news-1",
  "date": "2026-11-08",
  "lang": "ja",
- "title": "質屋シムが100万本、ゴジラも復活",
+ "title": "限界ライバーと、アトリエのセール",
  "opening": [
   {
-   "say": "らびっとらじお、はじまりました。十一月八日、日曜日。今日も、気になったパソコンゲームを特集します。",
-   "show": "らびっとらじお、はじまりました。11月8日日曜日、気になったPCゲーム特集です。"
+   "say": "らびっとらじお、はじまりました。十一月八日、日曜日。今日も、パソコンとスマホの、気になったゲームを特集します。",
+   "show": "らびっとらじお、はじまりました。11月8日日曜日、気になったゲーム特集です。"
   },
   {
    "say": "今日は、ニュースが四本、新作紹介が五本、そして、じっくり紹介が一本です。",
@@ -14,50 +14,6 @@
   }
  ],
  "news": [
-  {
-   "label": "『ゴジラ 怪獣大乱闘』がリマスターで復活",
-   "points": [
-    "2002年のゲームキューブ版を、24年ぶりにリマスター",
-    "怪獣12体で対戦、オンライン対戦に新対応",
-    "Steamの評価は「圧倒的に好評」"
-   ],
-   "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
-   "lines": [
-    {
-     "say": "まずは、懐かしの怪獣バトルの話題です。ゲームキューブで遊ばれた、ゴジラ 怪獣大乱闘が、リマスターになって、スチームなどで配信されました。",
-     "show": "まずは、ゲームキューブの『ゴジラ 怪獣大乱闘』がリマスターで復活。Steamなどで配信中。"
-    },
-    {
-     "say": "ゴジラやキングギドラ、メカゴジラなど、十二体の怪獣で戦う対戦アクション。ビルを持ち上げて、相手に投げつけることもできます。今回は、オンライン対戦にも対応しました。",
-     "show": "ゴジラ、キングギドラ、メカゴジラなど怪獣12体で対戦。ビルを投げつけることも。オンライン対戦に新対応。"
-    },
-    {
-     "say": "スチームの評価は、圧倒的に好評。子どものころの思い出がよみがえる、という声も出ています。",
-     "show": "Steamの評価は「圧倒的に好評」。「子ども時代へのラブレター」という声も。"
-    }
-   ],
-   "details": [
-    "Atariが11月3日、『Godzilla: Destroy All Monsters Melee Remastered』を配信しました。2002年にゲームキューブで出た『ゴジラ 怪獣大乱闘』のリマスターで、オリジナル版を作ったPipeworks Studiosが手がけています。PC（Steam）、PS5、Xbox Series X|S、Switch 2、Switchで遊べます。",
-    "Unreal Engine 5でグラフィックを作り直し、4Kにも対応。一方で、遊びの仕組みはオリジナル版を99％忠実に再現したとしています。最大4人のローカル対戦に加えて、オンライン対戦が新たに入りました。",
-    "Steamのレビューは約1,000件のうち95％が好評で「圧倒的に好評」（AUTOMATON）。Steam版は3,850円です。"
-   ],
-   "link": {
-    "url": "https://automaton-media.com/articles/newsjp/20261107-478035/",
-    "title": "約24年越しに蘇った『ゴジラ 怪獣大乱闘』リマスター版、Steamで「圧倒的に好評」の大人気。最大4人オンライン対戦搭載、オリジナル版開発元が手がける懐かしの怪獣バトル",
-    "site": "AUTOMATON",
-    "description": "Atariは11月3日、『Godzilla: Destroy All Monsters Melee Remastered』を配信開始した。Steamユーザーレビューで「圧倒的に好評」ステータスを獲得するなど、注目を集めている。",
-    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-478035-header.jpg",
-    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
-   },
-   "steam": 4251460,
-   "videos": [
-    {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/4251460/165294792/66da30c7e2787592244be785435e680e4dea868f/1793636006/hls_264_master.m3u8?t=1793714485",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257489030/f9476014012fa6f292e82df9c66891b04f52c2b4/movie_600x337.jpg?t=1793714485",
-     "name": "Godzilla: Destroy All Monsters Melee Remastered - Launch Trailer"
-    }
-   ]
-  },
   {
    "label": "『Chill with You』1周年、サトネの1年後",
    "points": [
@@ -68,8 +24,8 @@
    "url": "https://automaton-media.com/articles/newsjp/20261107-478056/",
    "lines": [
     {
-     "say": "つぎは、作業のおともに人気の、チルウィズユー、ローファイストーリーです。",
-     "show": "つぎは、作業用アドベンチャー『Chill with You : Lo-Fi Story』。"
+     "say": "まずは、作業のおともに人気の、チルウィズユー、ローファイストーリーの話題です。",
+     "show": "まずは、作業用アドベンチャー『Chill with You : Lo-Fi Story』。"
     },
     {
      "say": "発売一周年を記念して、十一月二十五日に、無料の大型ストーリーアップデート、君と見る夢が配信されます。小説好きの女の子、サトネとの、一年後が描かれます。",
@@ -103,6 +59,42 @@
    ]
   },
   {
+   "label": "『ガルクラ』のゲーム、中身が判明",
+   "points": [
+    "路上からアリーナを目指すガールズロックRPG",
+    "トゲナシトゲアリ5人と、ゲームオリジナルのバンド",
+    "フル3Dのライブゲーム、事前登録が始まっている"
+   ],
+   "url": "https://www.4gamer.net/games/834/G083422/20261106040/",
+   "lines": [
+    {
+     "say": "つぎは、スマホの新作。アニメ、ガールズバンドクライのゲーム、ファーストリフの中身が、公式の生放送で発表されました。",
+     "show": "つぎはスマホの新作。『ガールズバンドクライ First Riff』のゲーム内容が、公式生放送で公開。"
+    },
+    {
+     "say": "路上からアリーナまで駆け上がる、ガールズロックRPG。トゲナシトゲアリの五人に加えて、ゲームオリジナルのバンドも、たくさん登場します。",
+     "show": "路上からアリーナまで駆け上がるガールズロックRPG。トゲナシトゲアリの5人に、オリジナルのバンドも多数。"
+    },
+    {
+     "say": "バンドごとに違うライターが書くストーリーと、フル3Dのライブゲームが特徴です。発売日はまだですが、事前登録が始まっています。",
+     "show": "バンドごとに書き手が違うストーリーと、フル3Dのライブゲーム。発売日は未定、事前登録受付中。"
+    }
+   ],
+   "details": [
+    "DONUTSと東映アニメーションが共同で手がける、iOS/Android向けの『ガールズバンドクライ First Riff』（ガルリフ）。11月7日の「ガルリフ公式生放送 第4回」で、「ストーリー」「ライブゲーム」「全国ツアー」などの要素が紹介されました（4Gamer）。",
+    "トゲナシトゲアリの5人に加え、ゲームオリジナルのバンドやキャラクターが多数登場。バンドごとに異なるライターがストーリーを書き、アリーナを目指して駆け上がる過程を、フル3Dのライブゲームで体験できます。リリース日は未定です。",
+    "公式サイトではオンライン情報誌「ガルリフマガジン」が創刊。事前登録の開始を記念して、11月21日15時からアニメの一挙配信とウォッチパーティーが、YouTubeの公式チャンネルで行われます。"
+   ],
+   "link": {
+    "url": "https://www.4gamer.net/games/834/G083422/20261106040/",
+    "title": "「ガールズバンドクライ First Riff」のゲーム内容が公開に。トゲナシトゲアリのゲームKVもお披露目",
+    "site": "4Gamer.net",
+    "description": "DONUTSと東映アニメーションは本日，スマートフォン向けゲーム「ガールズバンドクライ First Riff」のゲーム内容を公開した。「ストーリー」「ライブゲーム」「全国ツアー」の3要素に加え，トゲ…",
+    "image": "https://www.4gamer.net/games/834/G083422/20261106040/SS/001.jpg",
+    "icon": "https://www.4gamer.net/favicon.ico"
+   }
+  },
+  {
    "label": "『ゼンゼロ』にロビンとカフカ",
    "points": [
     "『崩壊：スターレイル』コラボの戦闘PVが公開",
@@ -112,7 +104,7 @@
    "url": "https://www.gamespark.jp/article/2026/11/07/174615.html",
    "lines": [
     {
-     "say": "つぎは、ゼンレスゾーンゼロと、崩壊スターレイルのコラボです。",
+     "say": "つぎは、パソコンとスマホで遊べる、ゼンレスゾーンゼロと、崩壊スターレイルのコラボです。",
      "show": "つぎは『ゼンレスゾーンゼロ』×『崩壊：スターレイル』のコラボ。"
     },
     {
@@ -139,352 +131,340 @@
    }
   },
   {
-   "label": "Steamアワード10周年、新部門は2つ",
+   "label": "「アトリエ」シリーズがセール",
    "points": [
-    "「これが今の私の仕事」部門を新設",
-    "歴代の大賞から選ぶ「殿堂の中の殿堂」も",
-    "ノミネートは11月23日から"
+    "Steamで11月17日まで",
+    "『マリーのアトリエ Remake』は70%オフ",
+    "アーランドの3作のDXは1,320円"
    ],
-   "url": "https://www.gamespark.jp/article/2026/11/07/174598.html",
+   "url": "https://store.steampowered.com/app/2138090/",
    "lines": [
     {
-     "say": "ニュースの最後は、スチームアワードです。ユーザーの投票で、その年のゲームを選ぶ賞が、今年で十周年。新しい部門が、二つ加わります。",
-     "show": "ニュースの最後は「Steamアワード」。ユーザー投票で選ぶ賞が10周年、新部門が2つ。"
+     "say": "ニュースの最後は、セールの情報です。錬金術士の女の子たちが主人公の、アトリエシリーズが、スチームで安くなっています。十一月十七日までです。",
+     "show": "ニュースの最後はセール情報。「アトリエ」シリーズがSteamで割引中、11月17日まで。"
     },
     {
-     "say": "ひとつは、遊ぶことが、もはや仕事になってしまったゲームを選ぶ、これが今の私の仕事、部門。もうひとつは、これまでの大賞から、いちばんのお気に入りを選ぶ、殿堂の中の殿堂です。",
-     "show": "「これが今の私の仕事」部門と、歴代の大賞から選ぶ「殿堂の中の殿堂」が新設。"
+     "say": "マリーのアトリエ リメイクは、七割引きの千九百十四円。ロロナ、トトリ、メルルの、アーランドの三作のデラックス版は、どれも千三百二十円です。",
+     "show": "『マリーのアトリエ Remake』は70%オフの1,914円。ロロナ・トトリ・メルルのDXは各1,320円。"
     },
     {
-     "say": "ノミネートは、十一月二十三日から三十日まで。投票は、ウィンターセールが始まる、十二月十七日からです。",
-     "show": "ノミネートは11月23日〜30日、投票は12月17日のウィンターセール開始から。"
+     "say": "ライザのアトリエの三部作のデラックス版も、二十五パーセントから四十パーセント引き。気になっていた人は、そろえるチャンスですね。",
+     "show": "『ライザのアトリエ』三部作のDXも25〜40%オフ。"
     }
    ],
    "details": [
-    "Valveが、コミュニティの投票で受賞作を選ぶ「Steamアワード」を今年も開くと告知しました。今年で10周年です（Game*Spark）。",
-    "新しい部門は、遊ぶことがもはや仕事のようになったゲームの「This Is My Job Now（これが今の私の仕事）」と、過去の「Game of the Year」受賞作からいちばんのお気に入りを選ぶ「Hall of Fame of the Hall of Fame（殿堂の中の殿堂）」の2つです。",
-    "ノミネートは現地時間11月23日から30日まで。投票は「Steamウィンターセール」が始まる12月17日から受け付けます。"
+    "コーエーテクモゲームスの「アトリエ」シリーズが、Steamで割引されています。セールは11月17日まで（11月8日時点のSteamストア）。",
+    "『マリーのアトリエ Remake ～ザールブルグの錬金術士～』は70％オフの1,914円。『ロロナ』『トトリ』『メルル』のアトリエ DXは、それぞれ75％オフの1,320円。『ルルアのアトリエ』も75％オフの2,145円です。",
+    "『ライザのアトリエ』三部作のDXは25〜40％オフ、『紅の錬金術士と白の守護者 ～レスレリアーナのアトリエ～』は43％オフの4,890円。同じ期間に『BLUE REFLECTION Quartet』も25％オフです。"
    ],
    "link": {
-    "url": "https://www.gamespark.jp/article/2026/11/07/174598.html",
-    "title": "コミュニティが選ぶ「Steamアワード」は今年で10周年！ 2026年は2つの新カテゴリも登場",
-    "site": "Game*Spark",
-    "description": "現地時間11月23日から30日までノミネーションが行われ、投票は「Steamウィンターセール」が始まる12月17日より受け付けを行います。",
-    "image": "https://www.gamespark.jp/imgs/ogp_f/1216547.jpg",
-    "icon": "https://www.gamespark.jp/base/images/touch-icon-76.png"
-   }
-  },
-  {
-   "corner": "pickup",
-   "label": "タヌキのひと夏『TANUKI: Pon's Summer』",
-   "points": [
-    "11月10日発売、日本の島で1か月を過ごす",
-    "BMXで郵便配達、神社を建て直す",
-    "寿司、野球、相撲のお誘いも"
-   ],
-   "url": "https://store.steampowered.com/app/3218570/",
-   "lines": [
-    {
-     "say": "ここからは、新作紹介のコーナー。まずは、十一月十日発売の、タヌキ、ポンの夏。",
-     "show": "ここからは新作紹介。まずは11月10日発売『TANUKI: Pon's Summer』。"
-    },
-    {
-     "say": "日本の島で、自転車に乗る小さなタヌキ、ポンになって、ひと夏を過ごします。郵便局でアルバイトをしながら、荒れ放題の神社を、お祭りまでに建て直すのが目標です。",
-     "show": "日本の島で、タヌキのポンになってひと夏。郵便局で働きながら、大タヌキ祭までに神社を建て直す。"
-    },
-    {
-     "say": "島の人と仲良くなると、お寿司づくりや野球、相撲にも誘われます。BMXのトリックに挑む、百を超えるチャレンジもあります。",
-     "show": "島の人と仲良くなると、寿司・野球・相撲のお誘いも。BMXのチャレンジは100以上。"
-    }
-   ],
-   "details": [
-    "開発はDenkiworks、販売はCRITICAL REFLEX。日本の島で、BMXに乗る小さなタヌキ「ポン」として、まるまる1か月を過ごすゲームです。",
-    "郵便局のアルバイトで、島の住民に手紙や小包を届けます。稼いだお金や報酬で神社を修復し、自分好みに飾りつけて、大タヌキ祭を迎えます。",
-    "寿司づくり、野球、相撲などのアクティビティや、100を超えるBMXチャレンジも。『Hollow Knight: Silksong』『PEAK』などをモチーフにしたコラボ帽子もあります。Steamに体験版があります。"
-   ],
-   "link": {
-    "url": "https://store.steampowered.com/app/3218570/",
-    "title": "Steam：TANUKI: Pon's Summer  - タヌキ： ポンの夏",
+    "url": "https://store.steampowered.com/app/2138090/",
+    "title": "Steamで70% OFF：マリーのアトリエ Remake ～ザールブルグの錬金術士～",
     "site": "store.steampowered.com",
-    "description": "タヌキ祭りまで1か月しかないのに神社は荒れ放題。ちょっと怠け者のタヌキのポンとなり、郵便局で働きながら夏が終わる前に神社を建て直そう。小包を届け、友達を作り、立派な神社を建ててタヌキ祭りを迎えるんだ！",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3218570/b18c940a55b3757507b5a169181095c67c345925/capsule_616x353_japanese.jpg?t=1793920683",
+    "description": "『世界を救うのはもうやめた』　落ちこぼれの学生マリーが、卒業を目指して、錬金術に、冒険に、依頼達成にと奮闘する”日常系RPG”。「アトリエ」シリーズの原点『マリーのアトリエ』が数々の新規要素を加え、フルリメイク！",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2138090/capsule_616x353_japanese.jpg?t=1793761032",
     "icon": "https://store.steampowered.com/favicon.ico"
    },
-   "steam": 3218570,
+   "steam": 2138090,
    "videos": [
     {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/3218570/717175684/6c3e2978cf15cbde24de4eb7bab1685552a2d099/1793272159/hls_264_master.m3u8?t=1793287082",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257484071/f614437e2555ec239d54af71a3df64894cbf401c/movie_600x337.jpg?t=1793287082",
-     "name": "Release Date Trailer JP"
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2138090/540822/7e13849ec3f928595faacc8004914ec25eb422ef/1750747499/hls_264_master.m3u8?t=1683618969",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256931585/movie.293x165.jpg?t=1683618969",
+     "name": "プロモーションムービー第1弾"
     }
    ]
   },
   {
    "corner": "pickup",
-   "label": "敵の大群をなぎ払う『Warhammer Survivors』",
+   "label": "魔法使いの姉妹『Nonet Concerto R』",
    "points": [
-    "11月10日発売の「弾幕サバイバル」",
-    "『Vampire Survivors』のponcleと組んだ公式作",
-    "キャラは40人以上、武器は75種類以上"
+    "11月5日発売、いまは10%オフの886円",
+    "狩人の姉妹ソウとカナデのハクスラ",
+    "最大4人のオンライン協力"
    ],
-   "url": "https://store.steampowered.com/app/3669620/",
+   "url": "https://store.steampowered.com/app/5013150/",
    "lines": [
     {
-     "say": "つぎも、十日発売の、ウォーハンマー サバイバーズ。",
-     "show": "つぎも10日発売『Warhammer Survivors』。"
+     "say": "ここからは、新作紹介のコーナー。まずは、十一月五日に出た、ノネットコンチェルト アール。",
+     "show": "ここからは新作紹介。まずは11月5日発売『Nonet Concerto R』。"
     },
     {
-     "say": "押し寄せる敵の大群を、どんどん強くなる武器でなぎ払う、弾幕サバイバルのアクションです。ヴァンパイアサバイバーズのポンクルと組んで作られた、公式のライセンス作品。",
-     "show": "敵の大群を武器でなぎ払う「弾幕サバイバル」。『Vampire Survivors』のponcleと組んだ公式ライセンス作。"
+     "say": "魔物退治をなりわいにする、狩人の姉妹、ソウとカナデが主人公の、三人称のハクスラアクションです。両手の魔法で、魔物の大群をまとめて吹き飛ばします。",
+     "show": "狩人の姉妹ソウとカナデが主人公の3Dハクスラ。両手の魔法で魔物の大群を吹き飛ばす。"
     },
     {
-     "say": "ウォーハンマーの二つの世界から、四十人以上のキャラクターが登場。武器は七十五種類以上で、組み合わせて進化させられます。",
-     "show": "Warhammerの2つの世界から40人以上が参戦。武器は75種類以上、組み合わせて進化。"
+     "say": "約百種類の魔石で装備を組んで、五十以上のステージに挑みます。最大四人のオンライン協力にも対応していて、いまは一割引きの、八百八十六円です。",
+     "show": "約100種類の魔石で装備を組み、50以上のステージへ。最大4人で協力も。いまは10%オフの886円。"
     }
    ],
    "details": [
-    "開発は『Warhammer 40,000: Boltgun』のAuroch Digital。Warhammer、そして『Vampire Survivors』のponcleとのタッグで作られた公式ライセンスのゲームです。",
-    "『Warhammer 40,000』と『Warhammer Age of Sigmar』の両方の世界から、40人以上のキャラクターを操作できます。キャラクターごとに武器と初期ステータスが違います。",
-    "武器は75種類以上。武器とパワーアップを組み合わせて進化させます。画面を埋めつくすほどの巨大なボスも。Steamに体験版があります。"
+    "開発はPhotonSystem。2011年にコミックマーケットで頒布された『Nonet Concerto』のリメイクです。",
+    "姉のソウは勝気で、両手に杖形と本型の魔道具。妹のカナデはおっとりしていて、大きな杖の両端に魔石をつけています。火傷や凍結など、属性ごとの状態異常も使えます。",
+    "難易度は4段階。TwitchやYouTubeの配信と連携すると、視聴者のコメントで魔物の増援や支援が起きます（連携しなくても全部遊べます）。"
    ],
    "link": {
-    "url": "https://store.steampowered.com/app/3669620/",
-    "title": "Steam：Warhammer Survivors",
+    "url": "https://store.steampowered.com/app/5013150/",
+    "title": "Steamで10% OFF：Nonet Concerto R",
     "site": "store.steampowered.com",
-    "description": "『Warhammer 40,000: Boltgun』の開発陣が手がける、過酷でダークな世界観の公式「弾幕サバイバル」アクション『Warhammer Survivors』が登場。『Warhammer 40,000』と『Warhammer Age of Sigmar』の両ユニバースから名だたるチャンピオンたち40名以上を操り、死と破壊をもたらす敵を打ち砕け。",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3669620/551bc7d10ffe0dab2dceeb6add75cf47a2e4d8ac/capsule_616x353.jpg?t=1792417110",
+    "description": "魔法で魔物の大群をまとめて吹き飛ばす、三人称視点の3Dハクスラアクション。約100種類の魔石で装備を組み、50以上のステージに挑もう。1人でも最大4人のオンライン協力でも遊べる。Twitch・YouTubeの配信では、視聴者のコメントで魔物の増援や嵐が起きる。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5013150/e28d4d38c0af50dcd0d1d19290cdb70249920a09/capsule_616x353.jpg?t=1793879637",
     "icon": "https://store.steampowered.com/favicon.ico"
    },
-   "steam": 3669620,
+   "steam": 5013150,
    "videos": [
     {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/3669620/1298110492/15e10450c209ec96d29d926b8016e69705971b41/1791200757/hls_264_master.m3u8?t=1791295547",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257447030/f74077e01a0bc40b444095eb2ced8d69fb73b366/movie_600x337.jpg?t=1791295547",
-     "name": "Release Date Trailer"
-    },
-    {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/3669620/1959176646/c78aca53033a158586b614fd0e56a2fb6bcfc121/1779378209/hls_264_master.m3u8?t=1779380165",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257340865/2a345dbc268aedebdf207ec65d7d18d8c83e9cb9/movie_600x337.jpg?t=1779380165",
-     "name": "Warhammer Survivors Skulls Trailer"
-    },
-    {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/3669620/1770356543/60e54cc41c2d0ea713a1315750c3e6820b1eeb26/1775758944/hls_264_master.m3u8?t=1775760583",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257316957/83b564da63f37fdf0e8b62fd0af0cb4b5398bf38/movie_600x337.jpg?t=1775760583",
-     "name": "Warhammer Survivors Gameplay Trailer"
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5013150/1450878493/df3185ad8a271cd6833f64e08e568bcc45111165/1790499555/hls_264_master.m3u8?t=1792654812",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257433428/851b32a135d1404033c9ccf5ebe2a751e64ebe9b/movie_600x337.jpg?t=1792654812",
+     "name": "Trailer"
     }
    ]
   },
   {
    "corner": "pickup",
-   "label": "ソニックが来た『SONIC PICO PARK』",
+   "label": "ロボットの彼女とスロット『ハートスロット』",
    "points": [
-    "11月12日発売の協力アクションパズル",
-    "2〜8人で、全員そろってゴールへ",
-    "スピンダッシュ、リング、ループも"
+    "11月5日発売、いまは20%オフの564円",
+    "毎日の分割払いを、スロットで稼ぐ",
+    "好感度が上がると、彼女の反応が増える"
    ],
-   "url": "https://store.steampowered.com/app/4304060/",
+   "url": "https://store.steampowered.com/app/5177840/",
    "lines": [
     {
-     "say": "つぎは、十一月十二日発売の、ソニック、ピコパーク。",
-     "show": "つぎは11月12日発売『SONIC PICO PARK』。"
+     "say": "つぎも五日に出た、ハートスロット。",
+     "show": "つぎも5日発売『ハートスロット』。"
     },
     {
-     "say": "みんなで力を合わせないとクリアできない、協力アクションパズル、ピコパークに、セガのソニックがやってきました。ルールは、全員でゴールにたどり着くだけ。",
-     "show": "協力必須のアクションパズル『PICO PARK』に、セガの『ソニック』がやってきた。ルールは全員でゴールするだけ。"
+     "say": "憧れのロボットの女の子を迎えるために、分割払いの契約をして、毎日の支払いを、スロットで稼ぐゲームです。支払いを終えるたびに、スキルを選んで、マシンを自分好みに組みかえます。",
+     "show": "憧れのロボットを迎えるため、毎日の分割払いをスロットで稼ぐ。支払うたびにスキルでマシンを組みかえ。"
     },
     {
-     "say": "全員がスピンダッシュを使えて、リングやループ、スプリングなど、ソニックらしい仕掛けがいっぱい。二人から八人まで、オンラインでも遊べます。",
-     "show": "全員スピンダッシュOK。リング、ループ、スプリングも。2〜8人、オンラインでも。"
+     "say": "はじめはホログラムだった彼女も、好感度が上がると、表情や動きが増えていきます。本物のお金は賭けないので、安心してくださいね。いまは二割引きの、五百六十四円です。",
+     "show": "好感度が上がると、彼女の表情や動きが増える。現金は賭けない。いまは20%オフの564円。"
     }
    ],
    "details": [
-    "開発はTECOPARK。多人数協力型アクションパズル『PICO PARK』シリーズの最新作で、セガの『ソニック・ザ・ヘッジホッグ』とのコラボです。",
-    "ローカルでもオンラインでも、2人から最大8人で遊べて、どの人数でも全部のコンテンツを遊べます。オンラインはクロスプレイに対応し、1台のPCから最大7人まで参加できます。",
-    "全員がスピンダッシュを使えるほか、リング、ループ、スプリングなど、ソニックならではのギミックが登場します。"
+    "開発はFluvilume。1日に引ける回数が限られたスロットで、クレジットを稼いで分割払いを支払う、スロット構築のローグライトです。",
+    "支払いに成功するとスキルをひとつ選び、シンボル、ライン、倍率、ラン全体のルールを変えていきます。オーバークロックするほど、テンポも報酬も危険も大きくなります。",
+    "選んだロボットは、好感度が上がるにつれて表情やアクションが増えます。現金を賭けたり、カジノ通貨を買ったりする要素はありません。体験版もあります。"
    ],
    "link": {
-    "url": "https://store.steampowered.com/app/4304060/",
-    "title": "Steam：SONIC PICO PARK",
+    "url": "https://store.steampowered.com/app/5177840/",
+    "title": "Steamで20% OFF：ハートスロット",
     "site": "store.steampowered.com",
-    "description": "多人数協力型アクションパズルゲーム『PICO PARK』シリーズの最新作は、なんとSEGA『ソニック・ザ・ヘッジホッグ』とのコラボレーション！ 『ソニック』らしさと『PICO PARK』らしさを兼ね備えた協力プレイがたくさん！ ローカル/オンラインにて2人から最大8人まで遊べるよ！",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4304060/446e1fe4adc9b65992cde0f53d119de7abe62f6e/capsule_616x353.jpg?t=1792544482",
+    "description": "レバーを引いてクレジットを稼ぎ、12日間の分割払いを乗り切ろう。確率を書き換えるスキルを選び、ホログラムロボットとの好感度を上げ、マシンをオーバークロック。憧れのロボットを本当にあなたのものにするための、スロット構築ゲーム。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5177840/b8c92d2843e0d94dd0c2fe0590415b1944140429/capsule_616x353_japanese.jpg?t=1793893433",
     "icon": "https://store.steampowered.com/favicon.ico"
    },
-   "steam": 4304060,
+   "steam": 5177840,
    "videos": [
     {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/4304060/2117848526/be335739d636f8e54a4c2870e0444cfd336fa558/1780642793/hls_264_master.m3u8?t=1780798523",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257343714/421ec0bd8ad1073b472dab090f0f89e0f33cd9ce/movie_600x337.jpg?t=1780798523",
-     "name": "AnnounceTrailer_JP"
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5177840/975070735/d2a2d2fe86f24979d18defc8b373ea7b3641d1e7/1790061631/hls_264_master.m3u8?t=1790085578",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257431288/eb555844030fe8d0f6589aa75332b538f06c5ddc/movie_600x337.jpg?t=1790085578",
+     "name": "HEARTSLOT — Gameplay Trailer Japanese"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5177840/1529574504/91be6974d9631a6e8779e2fe93709ca1a8d0028e/1790062531/hls_264_master.m3u8?t=1790085577",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257431297/87be8f5403f73e5027bc0d321e8103032028d8c7/movie_600x337.jpg?t=1790085577",
+     "name": "HEARTSLOT — Gameplay Trailer Traditional-Chinese"
     }
    ]
   },
   {
    "corner": "pickup",
-   "label": "描いた魚が泳ぐ『Drawquarium』",
+   "label": "狐とサキュバスの同居ラブコメ",
    "points": [
-    "11月13日発売の水槽サンドボックス",
-    "自分で描いた魚や水草が動き出す",
-    "動くデスクトップ壁紙にもできる"
+    "11月6日発売、320円",
+    "家を追い出された狐の退魔師と、サキュバスの少女ロア",
+    "約3時間で完結、エンディングは3種類"
    ],
-   "url": "https://store.steampowered.com/app/4045480/",
+   "url": "https://store.steampowered.com/app/5036480/",
    "lines": [
     {
-     "say": "つぎは、十一月十三日発売の、ドロークアリウム。",
-     "show": "つぎは11月13日発売『Drawquarium ドロークアリウム』。"
+     "say": "つぎは、六日に出た、韓国のノベルゲーム、狐の退魔師は、尊重されたかった。",
+     "show": "つぎは6日発売『狐の退魔師は、尊重されたかった。』"
     },
     {
-     "say": "自分で描いた魚や水草が、水槽の中で動き出す、のんびりしたゲームです。魚どうしが友だちになったり、恋をして、赤ちゃんが生まれたりもします。",
-     "show": "自分で描いた魚や水草が、水槽で動き出す。魚どうしで友だちになったり、恋をしたり。"
+     "say": "妖怪を一度も消せずに、家を追い出された、狐の退魔師ハラン。その夜、ソファーに倒れていたのは、魔界の序列、四千四百四十四位の、サキュバスの女の子、ロアでした。",
+     "show": "家を追い出された狐の退魔師ハランのソファに、魔界序列4,444位のサキュバス、ロアが倒れていた。"
     },
     {
-     "say": "水槽は、動くデスクトップの壁紙にもできて、タイマーやタスクリストもついています。絵が苦手でも、用意された魚で楽しめますよ。",
-     "show": "水槽は動く壁紙にもできる。タイマーやタスクリストつき。絵が苦手でも、用意された魚でOK。"
+     "say": "コンビニの夜勤と家事を半分こする、ちょっと変わった同居ラブコメ。約三時間で完結して、エンディングは三種類です。性的な表現のない、健全なお話で、値段は三百二十円。",
+     "show": "夜勤バイトと家事を半分こする同居ラブコメ。約3時間、エンディングは3種類。性的な表現なし、320円。"
     }
    ],
    "details": [
-    "作者は、映画業界で3Dアーティストとして働くKalebさん。販売はrokaplay。自分で描いた絵が動き出す、水槽のサンドボックスゲームです。",
-    "魚に餌をあげて育て、金色のウロコを集めて、新しい飾りやツールを解放します。PNG画像を読みこんで、水槽に入れることもできます。",
-    "デスクトップ壁紙モードのほか、日記、タスクリスト、タイマー、時計も。Steamに体験版があります。"
+    "作者のFujinさんがひとりで作った、韓国のビジュアルノベル。日本語・英語・韓国語に対応しています。",
+    "狐の退魔師の名家の長男ヨン・ハランは、妖怪を一度も「消滅」させなかったせいで家を追い出されます。ソファに倒れていた自称「魔界貴族のサキュバス」ソ・ロアとの、同居生活が始まります。",
+    "物語は約3時間で完結。ロアとの絆と最後の選択で、トゥルー・ノーマル・バッドの3つのエンディングに分かれます。ストアには「性的な表現のない、健全なラブコメディ」とあります。体験版もあります。"
    ],
    "link": {
-    "url": "https://store.steampowered.com/app/4045480/",
-    "title": "Steam：Drawquarium ドロークアリウム",
+    "url": "https://store.steampowered.com/app/5036480/",
+    "title": "Steam：狐の退魔師は、尊重されたかった。",
     "site": "store.steampowered.com",
-    "description": "自分で描いた魚たちと、ほっこり癒やされる小さな水槽を作ろう。アニメーションするデスクトップ壁紙にもできるよ！ 絵が動き出す様子を眺め、餌をあげて育てながら金のウロコを集め、新しい飾りを解放しよう。集中やリラックスに役立つ便利なツールもあるよ。",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4045480/96b6912dfd6cd9e737552fc3634bda96b61d82c1/capsule_616x353_japanese.jpg?t=1793875400",
+    "description": "口座残高1,400ウォン。一度も妖怪を「消滅」させられず、家を追い出された狐の退魔師ヨン・ハラン。その夜、彼のソファには魔界序列4,444位のサキュバスが倒れていた。コンビニの夜勤バイトと家事半分こから始まる、ちょっと変わった同居ラブコメディ。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5036480/78bdd178b2fb98143d558c2bcfa9818f1f45ef10/capsule_616x353_japanese.jpg?t=1794040542",
     "icon": "https://store.steampowered.com/favicon.ico"
    },
-   "steam": 4045480,
+   "steam": 5036480,
    "videos": [
     {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/4045480/1422406994/bb795b2a745903469648a243df734fdafbaf9230/1760358637/hls_264_master.m3u8?t=1760649191",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257216095/47058a078407aeb47cdc7ba08edaa22083efbf5d/movie_600x337.jpg?t=1760649191",
-     "name": "Gameplay Trailer"
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5036480/454311070/065bdbecddf9db512ffcfacac9b703d3df162daf/1793520384/hls_264_master.m3u8?t=1793520719",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257487580/16271fb3a85ecfa21d03f4d725a7d67cae6cd923/movie_600x337.jpg?t=1793520719",
+     "name": "FoxTTEN"
     },
     {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/4045480/1785634319/9ae52ced5b0aab09f30b30f76aa1b22f80f5e7d7/1776513098/hls_264_master.m3u8?t=1776513490",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257321844/fc4f6cf780a7ae90f8d0fc4d7b943acefde64f69/movie_600x337.jpg?t=1776513490",
-     "name": "Demo Annoucment Trailer"
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5036480/446314108/eee7fc8ee91c91ec6060d6f5abeb0d46eccc0ab5/1793520354/hls_264_master.m3u8?t=1793520721",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257487578/de26b8c775945789c6aee1976ab7cc7234c2b6be/movie_600x337.jpg?t=1793520721",
+     "name": "FoxTTKO"
     }
    ]
   },
   {
    "corner": "pickup",
-   "label": "雲の上の暮らし『クロスランド』",
+   "label": "無料のソフトマガジン『ゾルゲステーション』",
    "points": [
-    "11月16日発売、『コージーグローブ』の開発元の新作",
-    "雲の上で精霊を助けて、山頂に家を建てる",
-    "ほかのプレイヤーは、はじめは影の姿"
+    "11月9日配信、00号は無料",
+    "シロテとコヨトルが学園で出迎え",
+    "『緋修羅』のここだけのステージ入り"
    ],
-   "url": "https://store.steampowered.com/app/2321960/",
+   "url": "https://store.steampowered.com/app/5466110/",
    "lines": [
     {
-     "say": "新作紹介の最後は、十一月十六日発売の、クロスランド、せいれいたちとつむぐせかい。",
-     "show": "新作紹介の最後は11月16日発売『クロスランド せいれいたちとつむぐせかい』。"
+     "say": "つぎは、あした九日に配信される、ゾルゲステーション、ヒューガ わいわい学園。",
+     "show": "つぎは、あした9日配信『ZOLGE STATION: HUGA Waiwai Academy』。"
     },
     {
-     "say": "パステルカラーの雲の上で、迷子の精霊を助けながら、山のてっぺんに、自分の家を建てる、マルチプレイのライフシムです。",
-     "show": "雲の上で、迷子の精霊を助けながら、山のてっぺんに家を建てる、マルチプレイのライフシム。"
+     "say": "インディーゲームスタジオ、ヒューガの作品を一本に詰めこんだ、ソフトウェアマガジンです。起動すると、学園で、シロテとコヨトルの二人が出迎えてくれます。",
+     "show": "インディースタジオ・ヒューガの作品を詰めこんだソフトウェアマガジン。学園でシロテとコヨトルがお出迎え。"
     },
     {
-     "say": "ほかのプレイヤーは、はじめは影の姿。ハイタッチをしたり、一緒に遊んだりすると、色がついて、姿が見えてきます。",
-     "show": "ほかのプレイヤーは最初は影。ハイタッチや一緒に遊ぶと、色がついて姿が見える。"
+     "say": "無料のゼロゼロ号には、ランアンドガンの、ヒジュラの、ここでしか遊べないステージも入っています。続きの号は、ダウンロードコンテンツで増えていきます。",
+     "show": "無料の00号に『緋修羅』のスペシャルステージ。続きの号はDLCで増えていく。"
     }
    ],
    "details": [
-    "開発は『コージーグローブ』のSpry Fox。英語のタイトルは『Spirit Crossing』です。",
-    "魔法の嵐が吹き荒れる雲の上の世界で、コミュニティの再建や精霊の手当てなどのクエストに取り組みます。精霊の言葉がわかるようになると、珍しいアイテムや物語が明かされます。",
-    "ほかの人と会いたくないときは、出会わない設定にもできます。嵐のときは、みんなでたき火を囲んで、音楽を奏でたり、おしゃべりしたり。Steamに体験版があります。"
+    "開発・販売はHUGA（ヒューガ）。ゲーム、マンガ、音楽、イラスト、作者本人の声などを1本に詰めこんだソフトウェアマガジンです。日本語はフルボイス。",
+    "無料の00号には、ラン＆ガン『緋修羅 HIJURA SCARLET GEAR』のスペシャルステージ、『ファイナルリクエスト』劇場版予告編のTRUE PIXEL版、特製冊子、トーク番組の特別回4本が入っています。",
+    "続きの号はDLCで追加されます。第01号には『ファイナルリクエスト』のサウンドトラックや『群馬県から来た少女』（2014年スマホ版）などが入ります。"
    ],
    "link": {
-    "url": "https://store.steampowered.com/app/2321960/",
-    "title": "Steam：クロスランド せいれいたちとつむぐせかい",
+    "url": "https://store.steampowered.com/app/5466110/",
+    "title": "Steam：ZOLGE STATION: HUGA Waiwai Academy",
     "site": "store.steampowered.com",
-    "description": "『コージーグローブ』の制作陣が贈る最新作！】パステルカラーの雲の間をグライダーで飛び、迷子になった精霊を助けながら、高くそびえる山頂に自分だけの理想の家をデザインできるマルチプレイヤーライフシム。あたたかいキャンプファイヤーを囲んで見知らぬ誰かと友達になったり、並んでのんびり空を飛び、雲海を泳ぐ魚を釣って思い出を分かち合ったり。不思議で愛おしい「新たな我が家」へようこそ。🏠🏔️",
-    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2321960/371039d51cc7cca799327dcbcb3f2e92a4848ab9/capsule_616x353.jpg?t=1793313658",
+    "description": "無料の00号に、ラン＆ガン『緋修羅 HIJURA SCARLET GEAR』のここだけのスペシャルステージを収録！ インディーゲームスタジオ・ヒューガの作品を1本に詰め込んだソフトウェアマガジン。『ファイナルリクエスト』劇場版予告編のTRUE PIXEL版、特製冊子、トーク番組「ゾルゲステーション」特別回4本も入って無料。続きの号はDLCで追加していきます。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5466110/46654d6b228abf100882aae7a9b32368ceb4e5ea/capsule_616x353.jpg?t=1793724086",
     "icon": "https://store.steampowered.com/favicon.ico"
    },
-   "steam": 2321960,
+   "steam": 5466110,
    "videos": [
     {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/2321960/1925082216/534aa372ba53c0b2c2a8981da9c49324cd8efcd2/1793313020/hls_264_master.m3u8?t=1793313592",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257484787/f24b35f331ab32c296b089c8982a6a0264380e3d/movie_600x337.jpg?t=1793313592",
-     "name": "Public Playtest Trailer (Japanese)"
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5466110/133423757/a9960b449216aa19d0e1b3118cc1f75fb12d0475/1793034885/hls_264_master.m3u8?t=1793035355",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257479378/24eab1309b36ae6639045ea27ee037ab6e3e8ecd/movie_600x337.jpg?t=1793035355",
+     "name": "ZOLGE STATION HUGA WAIWAI ACADEMY "
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "カフェから始まる恋『静寂のあいだにある想い』",
+   "points": [
+    "11月10日発売の恋愛ビジュアルノベル",
+    "ケンタとヒナの関係を、会話の選択で紡ぐ",
+    "ミニゲームあり、エンディングは3つ"
+   ],
+   "url": "https://store.steampowered.com/app/4325750/",
+   "lines": [
+    {
+     "say": "新作紹介の最後は、十一月十日発売の、静寂のあいだにある想い。",
+     "show": "新作紹介の最後は11月10日発売『静寂のあいだにある想い』。"
     },
     {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/2321960/1094688857/25ef1b77f594ac584f0693366f1b4eb1fb45d427/1764807342/hls_264_master.m3u8?t=1765307670",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257243277/397bc8fdf0771929ca5171dfcae8997bb32ccf57/movie_600x337.jpg?t=1765307670",
-     "name": "Steam Announcement Trailer"
+     "say": "いつものカフェから、アオカモリへの旅へ。ケンタとヒナの関係を、会話の選択で紡いでいく、恋愛ビジュアルノベルです。",
+     "show": "いつものカフェから、アオカモリへの旅へ。ケンタとヒナの関係を、会話の選択で紡ぐ恋愛ノベル。"
+    },
+    {
+     "say": "コーヒー作りや、お祭りのダンスなどのミニゲームもあって、エンディングは三つ。失恋や心の痛みも描かれる、少し切ないお話です。",
+     "show": "コーヒー作りやお祭りのダンスのミニゲームも。エンディングは3つ。少し切ない物語。"
+    }
+   ],
+   "details": [
+    "開発はPapersoul Games。英語のタイトルは『A Quiet Place Between Us』。恋、友情、自分らしい生き方を描く、選択型のアニメ調恋愛ビジュアルノベルです。",
+    "アタラ、リュウ、シナツ、サイ、モモたちと、カフェの仕事、屋上での会話、川辺のひととき、お祭りを過ごします。受容、自立、友情を軸にした3つのエンディングがあります。",
+    "ストアには、失恋、悲嘆、うつ、精神的な苦痛を扱うと書かれています。体験版があります。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/4325750/",
+    "title": "Steam：静寂のあいだにある想い",
+    "site": "store.steampowered.com",
+    "description": "恋、友情、そして自分らしい生き方を描く、選択型のアニメ調恋愛ビジュアルノベル。分岐する会話を通してケンタとヒナの関係を紡ぎ、物語に沿ったミニゲームを楽しみながら、3つのエンディングを見届けましょう。カフェで過ごす日常からアオカモリへの旅へ。何気ない言葉やすれ違い、家族や友人との時間の中で、誰かを大切にすることと、自分自身を大切にすることの間にある答えを探していきます。次にどんな言葉を選ぶかは、あなた次第です。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4325750/0d6608de8dbab2946e3a9675cc9cafba3c6b1adb/capsule_616x353_japanese.jpg?t=1793619667",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 4325750,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/4325750/1295775926/4028d9186e3104c7eea61134fe7f6ef8115feb42/1791292439/hls_264_master.m3u8?t=1793596750",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257446774/708caf6209fa0bc949f8c9477302c68286b1f72a/movie_600x337.jpg?t=1793596750",
+     "name": "Trailer"
     }
    ]
   },
   {
    "corner": "focus",
-   "label": "サイバーパンクの質屋『Probably Stolen』",
+   "label": "締め切りに追われる『限界ライバー』",
    "points": [
-    "発売10日で100万本、評価は「圧倒的に好評」",
-    "宇宙ステーションの下層で質屋を経営",
-    "偽物を見抜き、怪しい客とも取引",
-    "Steamで1,799円（12日まで10%オフ）"
+    "締め切り1週間前のVライバーを助けるローグライト",
+    "スケジュールを組み、アイデアでデッキ構築",
+    "サボる時間も、最初から計算に入れる",
+    "2027年1月発売予定、Steamに体験版"
    ],
-   "url": "https://automaton-media.com/articles/newsjp/20261107-477965/",
+   "url": "https://dengekionline.com/article/202611/92958",
    "lines": [
     {
-     "say": "最後は、じっくり紹介のコーナー。今日は、発売から十日で、百万本を売り上げた、プロバブリー ストールン。サイバーパンクの世界で、質屋を営むゲームです。",
-     "show": "最後はじっくり紹介。今日は、発売10日で100万本の『Probably Stolen』。サイバーパンクの質屋経営シム。"
+     "say": "最後は、じっくり紹介のコーナー。今日は、東京ゲームダンジョンにも出ていた、限界ライバー、しめきり一週前です。",
+     "show": "最後はじっくり紹介。今日は『限界ライバー しめきり1週前』。"
     },
     {
-     "say": "舞台は、富と腐敗で分断された、巨大な宇宙ステーションの下層。借金をして店を構えたプレイヤーは、毎週上がっていく家賃を払いながら、最後は店を買い取るのが目標です。",
-     "show": "舞台は、巨大宇宙ステーションの下層。毎週上がる家賃を払いながら、店を買い取るのが目標。"
+     "say": "明日できることは今日やらない。そんな毎日を送ってきたバーチャルライバーが、山積みの仕事を抱えて、締め切りまでの一週間を乗り切る、ローグライトの育成シミュレーションです。",
+     "show": "「明日できることは今日やらない！」Vライバーが、山積みの仕事で締め切りまでの1週間を乗り切るローグライト。"
     },
     {
-     "say": "お客さんは、品物を売りに来る人、買いに来る人、物々交換を持ちかける人など、さまざま。中には偽物を持ちこむ人もいるので、手引き書を見ながら、本物かどうかを見きわめます。",
-     "show": "客は売りに来たり、買いに来たり、物々交換を持ちかけたり。偽物は手引書で見きわめる。"
+     "say": "ライバーは三人。コンビニのレシートを捨てるのが生きがいの、まいぞのしはる。ビールが好きな、くれはみあ。甘いものが大好きな、あいかゆきね。課題は、グッズ企画や記念ライブなど、五つあります。",
+     "show": "ライバーは、舞園紫陽、紅葉ミア、蒼歌ゆきねの3人。課題はグッズ企画や記念ライブなど5つ。"
     },
     {
-     "say": "ときには、指名手配の犯人や、暴走したエーアイチップに乗っ取られた人もやってきます。通報するか、見て見ぬふりをするか。まっとうな店にするのも、怪しい店にするのも、自分しだいです。",
-     "show": "指名手配犯や、AIチップに乗っ取られた「AI人間」も来店。まっとうな店にも、怪しい店にもできる。"
+     "say": "毎日のスケジュールを組んで、アイデアをためて、それでデッキを組みます。おもしろいのは、サボる時間も、最初から計算に入れること。勉強したくない、眠い、そんな気持ちも織りこみ済みです。",
+     "show": "スケジュールを組み、ためたアイデアでデッキ構築。サボる時間も最初から計算に入れる。"
     },
     {
-     "say": "最初に、銃や水、農作物など、扱う商売を選べます。選んだ商売によって、もうけ方も、つきまとう危険も変わります。",
-     "show": "最初に、銃・水・農作物など商売の役割を選ぶ。もうけ方も、リスクも、それぞれ違う。"
+     "say": "会社とリスナー、両方からの要求に応えながら、毎日のファンサービスも忘れずに。一週間の途中には、中間評価もあります。",
+     "show": "企業とリスナーの要求に応えつつ、ファンサービスも毎日。途中で中間評価も。"
     },
     {
-     "say": "スチームの評価は、圧倒的に好評。十二月からは、無料のアップデートが続く予定です。十二日までは一割引きの、千七百九十九円ですよ。",
-     "show": "Steamの評価は「圧倒的に好評」。12月から無料アプデが続く予定。12日まで10%オフの1,799円。"
+     "say": "一回遊ぶとリセットされますが、がんばりブーストで強くなって、また挑戦できます。発売は来年の一月の予定で、スチームに体験版がありますよ。",
+     "show": "1回ごとにリセット、「がんばりブースト」で強くなって再挑戦。2027年1月発売予定、Steamに体験版あり。"
     }
    ],
    "details": [
-    "開発はQuesting Goose Studio、販売はtinyBuild。10月28日にPC（Steam）で発売され、日本語に対応しています。tinyBuildは11月7日、売上が100万本を超えたと発表しました（AUTOMATON）。",
-    "客の持ちこむ品の買取・販売・物々交換で利益を上げます。偽造品は手引書で鑑定。禁制品や密輸品など、リスクのある品をどう扱うかも大事です。指名手配犯は通報すると謝礼が出ますが、構わず取引もできます。",
-    "最初に、銃工、化学者、水商人、闇商人、農家などの役割を選べます。武器を扱えば検査が、水を扱えば法的責任がつきまとうなど、商品の系列ごとに、もうけ方と危険が違います。",
-    "Steamのレビューは約1万1,000件で97％が好評。開発元は、12月から来年4月まで、新しい商品やキャラクターを加える無料アップデートを続ける予定です。11月12日までは10％オフの1,799円。"
+    "開発・販売は、ときさか。10月31日の「東京ゲームダンジョン14」に、1周を通して遊べる試遊版が出展されました。電撃オンラインは「想像以上に楽しめた」と紹介しています。",
+    "3人のライバーと、グッズ企画や記念ライブなど5つの課題が登場。毎日のスケジュールを組んでアイデアをため、それでデッキを組んで、各方面から届く要求に応えます。",
+    "1週間の途中には中間評価も。1回のプレイが終わると山札やライバーの能力はリセットされますが、獲得した「がんばりブースト」で強くなって、再挑戦できます。",
+    "ライバーは、舞園紫陽（22さい）、紅葉ミア（22さい）、蒼歌ゆきね（21さい）。PC（Steam）で2027年1月発売予定、日本語・英語・中国語に対応。Steamに体験版があります。"
    ],
    "link": {
-    "url": "https://automaton-media.com/articles/newsjp/20261107-477965/",
-    "title": "“圧倒的に好評”サイバーパンク質屋シム『Probably Stolen』、売上100万本突破。発売10日で大台到達、自由すぎる怪しげショップ経営が一躍大ヒット",
-    "site": "AUTOMATON",
-    "description": "tinyBuildは11月7日、『Probably Stolen』の売上が100万本を突破したと発表した。発売から約10日での大台到達となる。",
-    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261107-477965-header.jpg",
-    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
+    "url": "https://dengekionline.com/article/202611/92958",
+    "title": "締め切り1週間前なのに仕事が山積み!? 『限界ライバー しめきり1週前』はサボりも計算に入れるデッキ構築ローグライト【東京ゲームダンジョン14／ときさかブース】",
+    "site": "電撃オンライン",
+    "description": "“東京ゲームダンジョン14”に出展された『限界ライバー しめきり1週前』を紹介。VTuberシミュレーションかと思いきや、デッキ構築が本格的！",
+    "image": "https://cimg.kgl-systems.io/camion/files/92958/ogp_IYAu.jpg?x=1280",
+    "icon": "https://dengekionline.com/res/images/headIcons/apple-touch-icon.png"
    },
-   "steam": 4348910,
+   "steam": 5009670,
    "videos": [
     {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/4348910/1029376199/a658a0ad7992fdb9eba32eadff946e0d84c4d06c/1793112587/hls_264_master.m3u8?t=1793192060",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257480740/b183111f9da804a069d69d8da96563b0203c5e52/movie_600x337.jpg?t=1793192060",
-     "name": "Launch trailer"
-    },
-    {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/4348910/1511229995/1000cfde02cce52682efefbb4152c25621478d59/1787553586/hls_264_master.m3u8?t=1789399826",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257406951/7843162258cfabf4568cc07bb1933f2e3c9898ca/movie_600x337.jpg?t=1789399826",
-     "name": "Release Date + Demo Launch Trailer"
-    },
-    {
-     "hls": "https://video.akamai.steamstatic.com/store_trailers/4348910/1236906822/9b862bf16c72e9bf9a98cef888662696dc2abd83/1784923250/hls_264_master.m3u8?t=1785772229",
-     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257319962/24ea27c7f556f4b00846ae57040a735d46d0a42b/movie_600x337.jpg?t=1785772229",
-     "name": "Probably Stolen - Announcement Trailer"
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5009670/2012498012/65b3f30cd721097f3df4c70389cfca22f6db2e53/1791879845/hls_264_master.m3u8?t=1791880628",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257459186/80788c1ac4603c83d7cdf04b1c9ffd346b48ac4e/movie_600x337.jpg?t=1791880628",
+     "name": "PV_1"
     }
    ]
   }
@@ -492,245 +472,245 @@
  "highlight": 9,
  "closing": [
   {
-   "say": "今日は、懐かしの怪獣バトルから、来週の新作、そしてサイバーパンクの質屋まで、気になるゲームをたっぷり紹介しました。",
-   "show": "懐かしの怪獣バトルから、来週の新作、サイバーパンクの質屋まで、気になるゲームをたっぷり紹介しました。"
+   "say": "今日は、作業のおともの大型アップデートから、ガールズバンドのゲーム、魔法使いの姉妹、そして締め切りに追われるライバーまで、紹介しました。",
+   "show": "作業のおともの大型アプデから、ガルクラのゲーム、魔法使いの姉妹、締め切りに追われるライバーまで紹介しました。"
   },
   {
-   "say": "来週は、ソニック ピコパークや、タヌキのひと夏など、新作が続きます。",
-   "show": "来週は『SONIC PICO PARK』や『TANUKI』など、新作が続きます。"
+   "say": "アトリエシリーズのセールは、十一月十七日まで。気になる人は、お早めに。",
+   "show": "「アトリエ」シリーズのセールは11月17日まで。お早めに。"
   },
   {
    "say": "それではまた、らびっとらじおでお会いしましょう。",
    "show": "それではまた、らびっとらじおで。"
   }
  ],
- "seconds": 340.2,
+ "seconds": 350.89,
  "lines_timed": [
   {
    "start": 0.6,
-   "end": 8.126,
-   "show": "らびっとらじお、はじまりました。11月8日日曜日、気になったPCゲーム特集です。",
+   "end": 9.055,
+   "show": "らびっとらじお、はじまりました。11月8日日曜日、気になったゲーム特集です。",
    "part": 0
   },
   {
-   "start": 8.376,
-   "end": 14.485,
+   "start": 9.305,
+   "end": 15.414,
    "show": "ニュース4本・新作紹介5本・じっくり紹介1本。",
    "part": 0
   },
   {
-   "start": 15.285,
-   "end": 25.4,
-   "show": "まずは、ゲームキューブの『ゴジラ 怪獣大乱闘』がリマスターで復活。Steamなどで配信中。",
+   "start": 16.214,
+   "end": 21.314,
+   "show": "まずは、作業用アドベンチャー『Chill with You : Lo-Fi Story』。",
    "part": 1
   },
   {
-   "start": 25.65,
-   "end": 37.53,
-   "show": "ゴジラ、キングギドラ、メカゴジラなど怪獣12体で対戦。ビルを投げつけることも。オンライン対戦に新対応。",
-   "part": 1
-  },
-  {
-   "start": 37.78,
-   "end": 44.18,
-   "show": "Steamの評価は「圧倒的に好評」。「子ども時代へのラブレター」という声も。",
-   "part": 1
-  },
-  {
-   "start": 44.98,
-   "end": 49.545,
-   "show": "つぎは、作業用アドベンチャー『Chill with You : Lo-Fi Story』。",
-   "part": 2
-  },
-  {
-   "start": 49.795,
-   "end": 62.429,
+   "start": 21.564,
+   "end": 34.198,
    "show": "1周年記念の無料大型アプデ「君と見る夢」が11月25日に。サトネとの「1年後」を描く。",
-   "part": 2
+   "part": 1
   },
   {
-   "start": 62.679,
-   "end": 68.324,
+   "start": 34.448,
+   "end": 40.093,
    "show": "作業場所を増やす有料DLC「Room & Cozy Activity」も、PC版は同じ日に。",
+   "part": 1
+  },
+  {
+   "start": 40.893,
+   "end": 49.313,
+   "show": "つぎはスマホの新作。『ガールズバンドクライ First Riff』のゲーム内容が、公式生放送で公開。",
    "part": 2
   },
   {
-   "start": 69.124,
-   "end": 73.005,
+   "start": 49.563,
+   "end": 58.656,
+   "show": "路上からアリーナまで駆け上がるガールズロックRPG。トゲナシトゲアリの5人に、オリジナルのバンドも多数。",
+   "part": 2
+  },
+  {
+   "start": 58.906,
+   "end": 67.709,
+   "show": "バンドごとに書き手が違うストーリーと、フル3Dのライブゲーム。発売日は未定、事前登録受付中。",
+   "part": 2
+  },
+  {
+   "start": 68.509,
+   "end": 74.154,
    "show": "つぎは『ゼンレスゾーンゼロ』×『崩壊：スターレイル』のコラボ。",
    "part": 3
   },
   {
-   "start": 73.255,
-   "end": 84.182,
+   "start": 74.404,
+   "end": 85.332,
    "show": "コラボキャラ「ロビン」「カフカ」の戦闘PVが公開。ロビンは歌、カフカは刀・糸・サブマシンガン2丁で戦う。",
    "part": 3
   },
   {
-   "start": 84.432,
-   "end": 91.947,
+   "start": 85.582,
+   "end": 93.096,
    "show": "終結スキルは『スターレイル』の必殺技を意識した演出。Ver.3.4で登場予定。",
    "part": 3
   },
   {
-   "start": 92.747,
-   "end": 102.606,
-   "show": "ニュースの最後は「Steamアワード」。ユーザー投票で選ぶ賞が10周年、新部門が2つ。",
+   "start": 93.896,
+   "end": 104.58,
+   "show": "ニュースの最後はセール情報。「アトリエ」シリーズがSteamで割引中、11月17日まで。",
    "part": 4
   },
   {
-   "start": 102.856,
-   "end": 115.56,
-   "show": "「これが今の私の仕事」部門と、歴代の大賞から選ぶ「殿堂の中の殿堂」が新設。",
+   "start": 104.83,
+   "end": 115.827,
+   "show": "『マリーのアトリエ Remake』は70%オフの1,914円。ロロナ・トトリ・メルルのDXは各1,320円。",
    "part": 4
   },
   {
-   "start": 115.81,
-   "end": 124.125,
-   "show": "ノミネートは11月23日〜30日、投票は12月17日のウィンターセール開始から。",
+   "start": 116.077,
+   "end": 124.578,
+   "show": "『ライザのアトリエ』三部作のDXも25〜40%オフ。",
    "part": 4
   },
   {
-   "start": 124.925,
-   "end": 131.801,
-   "show": "ここからは新作紹介。まずは11月10日発売『TANUKI: Pon's Summer』。",
+   "start": 125.378,
+   "end": 132.347,
+   "show": "ここからは新作紹介。まずは11月5日発売『Nonet Concerto R』。",
    "part": 5
   },
   {
-   "start": 132.051,
-   "end": 143.815,
-   "show": "日本の島で、タヌキのポンになってひと夏。郵便局で働きながら、大タヌキ祭までに神社を建て直す。",
+   "start": 132.597,
+   "end": 143.42,
+   "show": "狩人の姉妹ソウとカナデが主人公の3Dハクスラ。両手の魔法で魔物の大群を吹き飛ばす。",
    "part": 5
   },
   {
-   "start": 144.065,
-   "end": 153.065,
-   "show": "島の人と仲良くなると、寿司・野球・相撲のお誘いも。BMXのチャレンジは100以上。",
+   "start": 143.67,
+   "end": 154.609,
+   "show": "約100種類の魔石で装備を組み、50以上のステージへ。最大4人で協力も。いまは10%オフの886円。",
    "part": 5
   },
   {
-   "start": 153.865,
-   "end": 157.56,
-   "show": "つぎも10日発売『Warhammer Survivors』。",
+   "start": 155.409,
+   "end": 157.827,
+   "show": "つぎも5日発売『ハートスロット』。",
    "part": 6
   },
   {
-   "start": 157.81,
-   "end": 168.842,
-   "show": "敵の大群を武器でなぎ払う「弾幕サバイバル」。『Vampire Survivors』のponcleと組んだ公式ライセンス作。",
+   "start": 158.077,
+   "end": 170.966,
+   "show": "憧れのロボットを迎えるため、毎日の分割払いをスロットで稼ぐ。支払うたびにスキルでマシンを組みかえ。",
    "part": 6
   },
   {
-   "start": 169.092,
-   "end": 177.535,
-   "show": "Warhammerの2つの世界から40人以上が参戦。武器は75種類以上、組み合わせて進化。",
+   "start": 171.216,
+   "end": 183.189,
+   "show": "好感度が上がると、彼女の表情や動きが増える。現金は賭けない。いまは20%オフの564円。",
    "part": 6
   },
   {
-   "start": 178.335,
-   "end": 182.796,
-   "show": "つぎは11月12日発売『SONIC PICO PARK』。",
+   "start": 183.989,
+   "end": 190.087,
+   "show": "つぎは6日発売『狐の退魔師は、尊重されたかった。』",
    "part": 7
   },
   {
-   "start": 183.046,
-   "end": 193.01,
-   "show": "協力必須のアクションパズル『PICO PARK』に、セガの『ソニック』がやってきた。ルールは全員でゴールするだけ。",
+   "start": 190.337,
+   "end": 202.89,
+   "show": "家を追い出された狐の退魔師ハランのソファに、魔界序列4,444位のサキュバス、ロアが倒れていた。",
    "part": 7
   },
   {
-   "start": 193.26,
-   "end": 202.318,
-   "show": "全員スピンダッシュOK。リング、ループ、スプリングも。2〜8人、オンラインでも。",
+   "start": 203.14,
+   "end": 215.716,
+   "show": "夜勤バイトと家事を半分こする同居ラブコメ。約3時間、エンディングは3種類。性的な表現なし、320円。",
    "part": 7
   },
   {
-   "start": 203.118,
-   "end": 207.196,
-   "show": "つぎは11月13日発売『Drawquarium ドロークアリウム』。",
+   "start": 216.516,
+   "end": 222.196,
+   "show": "つぎは、あした9日配信『ZOLGE STATION: HUGA Waiwai Academy』。",
    "part": 8
   },
   {
-   "start": 207.446,
-   "end": 217.503,
-   "show": "自分で描いた魚や水草が、水槽で動き出す。魚どうしで友だちになったり、恋をしたり。",
+   "start": 222.446,
+   "end": 232.12,
+   "show": "インディースタジオ・ヒューガの作品を詰めこんだソフトウェアマガジン。学園でシロテとコヨトルがお出迎え。",
    "part": 8
   },
   {
-   "start": 217.753,
-   "end": 226.742,
-   "show": "水槽は動く壁紙にもできる。タイマーやタスクリストつき。絵が苦手でも、用意された魚でOK。",
+   "start": 232.37,
+   "end": 242.136,
+   "show": "無料の00号に『緋修羅』のスペシャルステージ。続きの号はDLCで増えていく。",
    "part": 8
   },
   {
-   "start": 227.542,
-   "end": 234.22,
-   "show": "新作紹介の最後は11月16日発売『クロスランド せいれいたちとつむぐせかい』。",
+   "start": 242.936,
+   "end": 248.512,
+   "show": "新作紹介の最後は11月10日発売『静寂のあいだにある想い』。",
    "part": 9
   },
   {
-   "start": 234.47,
-   "end": 242.495,
-   "show": "雲の上で、迷子の精霊を助けながら、山のてっぺんに家を建てる、マルチプレイのライフシム。",
+   "start": 248.762,
+   "end": 256.682,
+   "show": "いつものカフェから、アオカモリへの旅へ。ケンタとヒナの関係を、会話の選択で紡ぐ恋愛ノベル。",
    "part": 9
   },
   {
-   "start": 242.745,
-   "end": 250.863,
-   "show": "ほかのプレイヤーは最初は影。ハイタッチや一緒に遊ぶと、色がついて姿が見える。",
+   "start": 256.932,
+   "end": 266.026,
+   "show": "コーヒー作りやお祭りのダンスのミニゲームも。エンディングは3つ。少し切ない物語。",
    "part": 9
   },
   {
-   "start": 251.663,
-   "end": 262.811,
-   "show": "最後はじっくり紹介。今日は、発売10日で100万本の『Probably Stolen』。サイバーパンクの質屋経営シム。",
+   "start": 266.826,
+   "end": 274.781,
+   "show": "最後はじっくり紹介。今日は『限界ライバー しめきり1週前』。",
    "part": 10
   },
   {
-   "start": 263.061,
-   "end": 274.987,
-   "show": "舞台は、巨大宇宙ステーションの下層。毎週上がる家賃を払いながら、店を買い取るのが目標。",
+   "start": 275.031,
+   "end": 285.877,
+   "show": "「明日できることは今日やらない！」Vライバーが、山積みの仕事で締め切りまでの1週間を乗り切るローグライト。",
    "part": 10
   },
   {
-   "start": 275.237,
-   "end": 288.197,
-   "show": "客は売りに来たり、買いに来たり、物々交換を持ちかけたり。偽物は手引書で見きわめる。",
+   "start": 286.127,
+   "end": 299.017,
+   "show": "ライバーは、舞園紫陽、紅葉ミア、蒼歌ゆきねの3人。課題はグッズ企画や記念ライブなど5つ。",
    "part": 10
   },
   {
-   "start": 288.447,
-   "end": 301.093,
-   "show": "指名手配犯や、AIチップに乗っ取られた「AI人間」も来店。まっとうな店にも、怪しい店にもできる。",
+   "start": 299.267,
+   "end": 311.518,
+   "show": "スケジュールを組み、ためたアイデアでデッキ構築。サボる時間も最初から計算に入れる。",
    "part": 10
   },
   {
-   "start": 301.343,
-   "end": 310.355,
-   "show": "最初に、銃・水・農作物など商売の役割を選ぶ。もうけ方も、リスクも、それぞれ違う。",
+   "start": 311.768,
+   "end": 320.641,
+   "show": "企業とリスナーの要求に応えつつ、ファンサービスも毎日。途中で中間評価も。",
    "part": 10
   },
   {
-   "start": 310.605,
-   "end": 321.254,
-   "show": "Steamの評価は「圧倒的に好評」。12月から無料アプデが続く予定。12日まで10%オフの1,799円。",
+   "start": 320.891,
+   "end": 330.971,
+   "show": "1回ごとにリセット、「がんばりブースト」で強くなって再挑戦。2027年1月発売予定、Steamに体験版あり。",
    "part": 10
   },
   {
-   "start": 322.054,
-   "end": 330.555,
-   "show": "懐かしの怪獣バトルから、来週の新作、サイバーパンクの質屋まで、気になるゲームをたっぷり紹介しました。",
+   "start": 331.771,
+   "end": 341.166,
+   "show": "作業のおともの大型アプデから、ガルクラのゲーム、魔法使いの姉妹、締め切りに追われるライバーまで紹介しました。",
    "part": 11
   },
   {
-   "start": 330.805,
-   "end": 336.287,
-   "show": "来週は『SONIC PICO PARK』や『TANUKI』など、新作が続きます。",
+   "start": 341.416,
+   "end": 346.98,
+   "show": "「アトリエ」シリーズのセールは11月17日まで。お早めに。",
    "part": 11
   },
   {
-   "start": 336.537,
-   "end": 339.396,
+   "start": 347.23,
+   "end": 350.089,
    "show": "それではまた、らびっとらじおで。",
    "part": 11
   }
@@ -740,74 +720,74 @@
    "kind": "opening",
    "index": null,
    "start": 0.6,
-   "end": 15.285
+   "end": 16.214
   },
   {
    "kind": "news",
    "index": 0,
-   "start": 15.285,
-   "end": 44.98
+   "start": 16.214,
+   "end": 40.893
   },
   {
    "kind": "news",
    "index": 1,
-   "start": 44.98,
-   "end": 69.124
+   "start": 40.893,
+   "end": 68.509
   },
   {
    "kind": "news",
    "index": 2,
-   "start": 69.124,
-   "end": 92.747
+   "start": 68.509,
+   "end": 93.896
   },
   {
    "kind": "news",
    "index": 3,
-   "start": 92.747,
-   "end": 124.925
+   "start": 93.896,
+   "end": 125.378
   },
   {
    "kind": "news",
    "index": 4,
-   "start": 124.925,
-   "end": 153.865
+   "start": 125.378,
+   "end": 155.409
   },
   {
    "kind": "news",
    "index": 5,
-   "start": 153.865,
-   "end": 178.335
+   "start": 155.409,
+   "end": 183.989
   },
   {
    "kind": "news",
    "index": 6,
-   "start": 178.335,
-   "end": 203.118
+   "start": 183.989,
+   "end": 216.516
   },
   {
    "kind": "news",
    "index": 7,
-   "start": 203.118,
-   "end": 227.542
+   "start": 216.516,
+   "end": 242.936
   },
   {
    "kind": "news",
    "index": 8,
-   "start": 227.542,
-   "end": 251.663
+   "start": 242.936,
+   "end": 266.826
   },
   {
    "kind": "news",
    "index": 9,
-   "start": 251.663,
-   "end": 322.054
+   "start": 266.826,
+   "end": 331.771
   },
   {
    "kind": "closing",
    "index": null,
-   "start": 322.054,
-   "end": 340.196
+   "start": 331.771,
+   "end": 350.889
   }
  ],
- "made_at": "2026-11-08T10:10:56"
+ "made_at": "2026-11-08T10:37:22"
 }
