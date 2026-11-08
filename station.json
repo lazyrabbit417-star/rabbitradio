@@ -1,8 +1,8 @@
 {
  "format": "myradio/station-1",
  "name": "らびっとらじお",
- "description": "Steam・PCで気になったゲームを特集する番組です。ニュース・新作紹介・じっくり紹介でお届けします。裸や性的な表現があるタイトルは扱いません。",
- "tagline": "気になったPCゲーム特集",
+ "description": "PC・スマホで気になったゲームを特集する番組です。ニュース・新作紹介・じっくり紹介でお届けします。裸や性的な表現があるタイトルは扱いません。",
+ "tagline": "気になったゲーム特集",
  "logo": "logo.svg",
  "url": "https://lazyrabbit417-star.github.io/rabbitradio/",
  "repo": "https://github.com/lazyrabbit417-star/rabbitradio",

@@ -1,6 +1,6 @@
 <h1 align="center">らびっとらじお</h1>
 
-<p align="center"><b>Steam・PCで気になったゲームを特集する番組です。ニュース・新作紹介・じっくり紹介でお届けします。</b></p>
+<p align="center"><b>PC・スマホで気になったゲームを特集する番組です。ニュース・新作紹介・じっくり紹介でお届けします。</b></p>
 
 <p align="center">
   <a href="https://lazyrabbit417-star.github.io/rabbitradio/"><img src="https://img.shields.io/badge/%E2%96%B6%20ON%20AIR-%E3%82%89%E3%81%B3%E3%81%A3%E3%81%A8%E3%82%89%E3%81%98%E3%81%8A-ffd028?style=for-the-badge&labelColor=ff4468" alt="らびっとらじおを見る"></a>
@@ -10,6 +10,7 @@
 
 - 番組を見る：<https://lazyrabbit417-star.github.io/rabbitradio/>
 - ジャンルは問いません（アクション、ローグライク、シミュレーション、RPG、ノベル……）。その日に気になったゲームを選んで紹介します
+- PC（Steam など）とスマホのゲームを扱います。Switch や PS5 などの家庭用ゲーム機だけで遊べるタイトルは扱いません
 - **裸や性的な表現があるタイトルは扱いません**。Steam で「ヌードや性的な内容を含む」「成人向けの性的なコンテンツ」などの表示があるものは取り上げません
 - 台本は `episodes/` に文字で残っています
 
