@@ -1,8 +1,8 @@
 {
  "format": "myradio/station-1",
  "name": "らびっとらじお",
- "description": "Steam・PCの、かわいい女の子が出てくるアニメ調のゲームを、ニュース・新作紹介・じっくり紹介でお届けします。全年齢向けのタイトルだけを扱います。",
- "tagline": "かわいい女の子のPCゲーム",
+ "description": "Steam・PCで気になったゲームを特集する番組です。ニュース・新作紹介・じっくり紹介でお届けします。裸や性的な表現があるタイトルは扱いません。",
+ "tagline": "気になったPCゲーム特集",
  "logo": "logo.svg",
  "url": "https://lazyrabbit417-star.github.io/rabbitradio/",
  "repo": "https://github.com/lazyrabbit417-star/rabbitradio",
