@@ -1,0 +1,42 @@
+{
+ "format": "myradio/station-1",
+ "name": "らびっとらじお",
+ "description": "PC・スマホで気になったゲームを特集する番組です。ニュース・新作紹介・じっくり紹介でお届けします。裸や性的な表現があるタイトルは扱いません。",
+ "tagline": "気になったゲーム特集",
+ "logo": "logo.svg",
+ "url": "https://lazyrabbit417-star.github.io/rabbitradio/",
+ "repo": "https://github.com/lazyrabbit417-star/rabbitradio",
+ "language": "ja",
+ "languages": [
+  "ja"
+ ],
+ "schedule": {
+  "every": "day",
+  "timezone": "Asia/Tokyo"
+ },
+ "episodes": "episodes.json",
+ "corners": {
+  "pickup": {
+   "name": "新作紹介",
+   "tag": "PICKUP"
+  },
+  "focus": {
+   "name": "じっくり紹介",
+   "tag": "FOCUS"
+  }
+ },
+ "character": {
+  "pack": "character/character.json",
+  "thumbnail": "character/base.png",
+  "note": "AIで生成したキャラクターです（myradio のお手本のキャラ）"
+ },
+ "credits": [
+  "声：COEIROINK:リリンちゃん"
+ ],
+ "caster": "声：COEIROINK:リリンちゃん",
+ "audio": {
+  "dir": "audio",
+  "keep_days": 30
+ },
+ "weather": true
+}

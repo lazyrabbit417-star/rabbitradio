@@ -1,0 +1,857 @@
+{
+ "format": "monoradio/news-1",
+ "date": "2026-11-12",
+ "lang": "ja",
+ "title": "ビアンカとフローラの『DQM4』、ブルアカは引き継ぎを",
+ "opening": [
+  {
+   "say": "らびっとらじお、はじまりました。十一月十二日、木曜日。今日も、パソコンとスマホの、気になったゲームを特集します。",
+   "show": "らびっとらじお、はじまりました。11月12日木曜日、気になったゲーム特集です。"
+  },
+  {
+   "say": "今日は、ニュースが四本、新作紹介が五本、そして、じっくり紹介が一本です。",
+   "show": "ニュース4本・新作紹介5本・じっくり紹介1本。"
+  }
+ ],
+ "news": [
+  {
+   "label": "『ブルアカ』アカウント引き継ぎ申請が始まる",
+   "points": [
+    "1月中旬に、パブリッシャーがYostarからNexonへ",
+    "申請しないと、今のアカウントで遊べなくなる",
+    "YostarIDとNEXONの会員アカウントが必要"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261112-478826/",
+   "lines": [
+    {
+     "say": "まずは、ブルーアーカイブを遊んでいる人に、大事なお知らせです。アカウントの引き継ぎ申請が、始まりました。",
+     "show": "まずは『ブルーアーカイブ』。アカウント引き継ぎ申請の受付がスタート。"
+    },
+    {
+     "say": "ブルアカは、来年の一月中旬に、配信する会社が、ヨースターからネクソンに変わります。申請をしないと、そのあと、今のアカウントでログインできなくなってしまいます。",
+     "show": "2027年1月中旬、パブリッシャーがYostarからNexonへ。申請しないと、今のアカウントでログインできなくなる。"
+    },
+    {
+     "say": "手続きには、ブルアカと結びつけたヨースターアイディーと、ネクソンの会員アカウントが必要です。開発チームは、変わらないそうですよ。",
+     "show": "手続きには、ブルアカを紐づけたYostarIDと、NEXONの会員アカウントが必要。開発は変わらず。"
+    }
+   ],
+   "details": [
+    "YostarとNexon Gamesが、11月11日に『ブルーアーカイブ』のアカウント引き継ぎ申請の受付を始めました。2027年1月中旬に、パブリッシャーがYostarからNexonへ変わる予定です（AUTOMATON）。",
+    "申請しないと、パブリッシャー変更のメンテナンス後に、同じアカウントでログインできなくなります。申請ページでYostarIDにログインしてデータを確かめ、引き継ぎ先のNEXON会員アカウントを確認すれば完了です。",
+    "開発・運営・IP展開を一貫して行うための変更で、開発チームは変わりません。PC版は、Nexon側で新しく遊べる環境を準備中とのことです。流れている動画は、公式の「Yostar＆NEXON Games 対談動画」です。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261112-478826/",
+    "title": "『ブルーアーカイブ（ブルアカ）』パブリッシャー変更にともなうアカウント引き継ぎ申請がスタート。1月中旬までに申請しないと、現在のアカウントで遊べなくなるため要注意",
+    "site": "AUTOMATON",
+    "description": "YostarおよびNexon Gamesは11月11日、『ブルーアーカイブ（ブルアカ）』にてアカウント引き継ぎ申請の受付を開始した。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478826-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
+   },
+   "youtube": [
+    "sjx7eRwVQrw"
+   ],
+   "videos": [
+    {
+     "youtube": "sjx7eRwVQrw",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/sjx7eRwVQrw/hqdefault.jpg",
+     "name": "Yostar＆NEXON Games 対談動画"
+    }
+   ]
+  },
+  {
+   "label": "『NTE』に新キャラ「イェルム」",
+   "points": [
+    "11月11日実装、CVは雨宮天さん",
+    "「電波」を3段階に強める光異能のサポート",
+    "家に招くと、似顔絵を描いてくれることも"
+   ],
+   "url": "https://automaton-media.com/articles/special-column/20261111-478535/",
+   "lines": [
+    {
+     "say": "つぎは、エヌティーイー、ネバーネス・トゥ・エバーネスです。新しいキャラクター、イェルムが、きのう登場しました。声は、あまみやそらさんです。",
+     "show": "つぎは『NTE: Neverness to Everness』。新キャラ「イェルム」（CV：雨宮天さん）が11日に実装。"
+    },
+    {
+     "say": "イェルムは、いしょう管理局の、第六小隊の副隊長。チームを強くするサポート役ですが、電波を、じゃく、ちゅう、きょう、と強めていって、最後に大技を放つ、とても派手なキャラクターです。",
+     "show": "異象管理局E.T.D第6小隊の副隊長。サポートながら「電波」を弱→中→強と高め、EXレール終結で派手に決める。"
+    },
+    {
+     "say": "家に招待すると、黒板に、主人公の似顔絵を、前衛的なタッチで描いてくれるそうです。",
+     "show": "家に招くと、黒板に前衛的なタッチで似顔絵を描いてくれる。"
+    }
+   ],
+   "details": [
+    "Perfect World Gamesの『NTE: Neverness to Everness』で、11月11日に新プレイアブルキャラクター「イェルム」（CV：雨宮天さん）が実装され、ピックアップ中です（AUTOMATON）。",
+    "イェルムは異象管理局E.T.D第6小隊の副隊長で、光異能のサブアタッカー兼サポート。バイレールスキルで「電波」を弱・中・強と切り替え、強のときにEXレール終結を撃つと、味方全員の攻撃力と追加攻撃ダメージが上がります。",
+    "Ver.1.5「リダイヤル#空想の君へ」では、本編ストーリー「電子の海での再会」も始まりました。対応はPC/iOS/Android/PS5。流れている動画は、公式のキャラクターPVです。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/special-column/20261111-478535/",
+    "title": "基本プレイ無料『NTE』新キャラ「イェルム（CV雨宮天さん）」はサポートなのに、誰よりも派手に暴れる。バフも火力も“動き”も凄い、よくばり電脳お姉さん",
+    "site": "AUTOMATON",
+    "description": "『NTE: Neverness to Everness』の新キャラクター「イェルム」（CV：雨宮天さん）は、サポート役でありながら電波を段階的に強めて誰よりも派手に暴れる、よくばりな電脳お姉さんだった。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478535-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
+   },
+   "youtube": [
+    "-VO0YfRV-ig",
+    "_R-sVAqxaus"
+   ],
+   "videos": [
+    {
+     "youtube": "-VO0YfRV-ig",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/-VO0YfRV-ig/hqdefault.jpg",
+     "name": "【NTE】イェルム キャラPV｜仲直りしよう"
+    },
+    {
+     "youtube": "_R-sVAqxaus",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/_R-sVAqxaus/hqdefault.jpg",
+     "name": "【NTE】キャラ実戦紹介｜イェルム"
+    }
+   ]
+  },
+  {
+   "label": "『カオゼロ』に「戦闘倍速」、新キャラも",
+   "points": [
+    "新戦闘員「ブレイズベル」が登場",
+    "要望の多かった「戦闘倍速」を実装",
+    "12月2日までイベント「記憶を照らす炎」"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261111-478677/",
+   "lines": [
+    {
+     "say": "つぎは、カオスゼロナイトメア。新しい戦闘員、ブレイズベルが加わるアップデートがありました。",
+     "show": "つぎは『カオスゼロナイトメア』。新戦闘員「ブレイズベル」が登場するアップデート。"
+    },
+    {
+     "say": "ブレイズベルは、炎を使って、仲間の戦いを支える戦闘員。ストーリーの第二章では、帝国に強い反感を持つ、彼女の過去も明らかになっていきます。",
+     "show": "炎のスキルで味方をサポートするコントローラー。シーズン5第2章で、彼女の過去が明らかに。"
+    },
+    {
+     "say": "要望の多かった、戦闘の倍速機能も入りました。十二月二日までは、ブレイズベルの記念イベントも開かれています。",
+     "show": "要望の多かった「戦闘倍速」を実装。12月2日まで記念イベント「記憶を照らす炎」。"
+    }
+   ],
+   "details": [
+    "Smilegateが、11月11日に『カオスゼロナイトメア』をアップデートしました。シーズン5「銀河系災害」のメインストーリー第2章と、新規戦闘員「ブレイズベル」（正義属性・コントローラー）が追加されています（AUTOMATON）。",
+    "ブレイズベルはフレイヤ家の当主。主要カード「舞い散る炎」は、アクションポイントを得ながら追加でカードを引けます。新規サポート「ヴィヴィアン」も実装されました。",
+    "「戦闘倍速」のほか、不要な神ヒラメキを消せる機能や、記憶の欠片のサブオプションを選んで作れる機能も追加。「大亀裂」もリニューアルされました。PC/iOS/Androidで配信中です。流れている動画は、公式のキャラクターPVです。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261111-478677/",
+    "title": "『カオスゼロナイトメア』最新アプデで「戦闘倍速」などの便利機能たくさん実装。装備のステータス厳選ハードル低下など、育成さらに捗る",
+    "site": "AUTOMATON",
+    "description": "Smilegateは11月11日、『カオスゼロナイトメア』に向けてアップデートを実施。新規戦闘員「ブレイズベル」の追加や、「戦闘倍速」機能の追加などがおこなわれている。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478677-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
+   },
+   "youtube": [
+    "GiJRHpzikiY",
+    "TchzzGBwP-k"
+   ],
+   "videos": [
+    {
+     "youtube": "GiJRHpzikiY",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/GiJRHpzikiY/hqdefault.jpg",
+     "name": "[Chaos Zero Nightmare] Blazebell Character PV"
+    },
+    {
+     "youtube": "TchzzGBwP-k",
+     "start": 0,
+     "poster": "https://i.ytimg.com/vi/TchzzGBwP-k/hqdefault.jpg",
+     "name": "【カオスゼロナイトメア】ブレイズベル | 戦闘モーション"
+    }
+   ]
+  },
+  {
+   "label": "百合の恋愛ノベル『真夏のシトラス』、1月発売",
+   "points": [
+    "2027年1月5日発売、日本語対応",
+    "残業続きの主人公と、3人の女性の恋物語",
+    "体験版への批判を受け、シナリオを一から書き直し"
+   ],
+   "url": "https://automaton-media.com/articles/newsjp/20261111-478575/",
+   "lines": [
+    {
+     "say": "ニュースの最後は、まなつのシトラス。働く女性たちの恋を描く、ゆりの恋愛ノベルゲームが、来年の一月五日に発売されます。",
+     "show": "ニュースの最後は『真夏のシトラス』。働く女性たちの恋を描く百合恋愛ノベル、2027年1月5日発売へ。"
+    },
+    {
+     "say": "主人公のウーイーは、ゲーム業界で残業続きの、二十七歳。話すぬいぐるみと、こぼれたオレンジの香水をきっかけに、親友、同僚、そしてお店のオーナーとの、三つの恋が動き出します。",
+     "show": "主人公は残業続きの27歳・呉依。話すぬいぐるみと、こぼれた香水をきっかけに、3人との恋が動き出す。"
+    },
+    {
+     "say": "体験版に寄せられた批判を受けて、シナリオを一から書き直したそうです。日本語には、製品版で対応します。",
+     "show": "体験版への批判を受け、シナリオを一から全面的に書き直し。日本語表示は製品版で対応。"
+    }
+   ],
+   "details": [
+    "ZtoA CO.が、LimeStudio開発のビジュアルノベル『真夏のシトラス』を2027年1月5日にSteamで発売すると発表しました。ゲーム内は日本語表示に対応します（AUTOMATON）。",
+    "主人公の呉依（ウー・イー）は、ゲーム業界で働く27歳。攻略キャラクターは、高校時代からの親友・趙冉、新人プログラマーの同僚・余桐、セレクトショップのオーナー・宋潔の3人です。約20万字のテキストと、20枚以上のCGがあります。",
+    "2025年9月公開の体験版にはストーリー面で批判が寄せられ、新しいライターがシナリオを全面的に書き直しました。更新された体験版は、今のところ日本語表示と中国語ボイスに対応していません。流れている動画は、Steamのトレーラーです。"
+   ],
+   "link": {
+    "url": "https://automaton-media.com/articles/newsjp/20261111-478575/",
+    "title": "“限界社畜”百合恋愛ゲーム『真夏のシトラス』、来年1月5日発売へ。体験版の批判を受け「シナリオ一から書き直し」の大刷新、ひと瓶の香水から始まるラブストーリー",
+    "site": "AUTOMATON",
+    "description": "ZtoA CO.は11月10日、LimeStudioが手がける『真夏のシトラス』を2027年1月5日にリリースすると発表した。本作はいわゆる“社畜”の主人公が、ひょんなことから恋の連鎖へと巻き込まれていく恋愛ビジュアルノベルゲームだ。",
+    "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478575-header.jpg",
+    "icon": "https://automaton-media.com/wp-content/uploads/2024/11/cropped-automaton-favicon-180x180.png"
+   },
+   "steam": 3725830,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3725830/1766665416/0c4138e50f2bc6eb1b6ff9ba6bfb47be62cc2a6e/1750394115/hls_264_master.m3u8?t=1753076381",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257139116/bad253b939867679a68020ce7ca738e2402d0306/movie_600x337.jpg?t=1753076381",
+     "name": "首爆pv"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "認知異常のデスゲーム推理『病能探偵』",
+   "points": [
+    "11月4日発売、いまは10%オフ",
+    "13人の「病能者」が集められた死のゲーム",
+    "歪んだ現場の真相を、弁論で暴く"
+   ],
+   "url": "https://store.steampowered.com/app/3432860/",
+   "lines": [
+    {
+     "say": "ここからは、新作紹介のコーナー。まずは、先週発売されて、話題になっている、びょうのうたんてい。",
+     "show": "ここからは新作紹介。まずは11月4日発売、話題の『病能探偵』。"
+    },
+    {
+     "say": "集められたのは、めずらしい認知の異常をかかえた、十三人の、びょうのうしゃ。殺人がばれなければ、どんな願いもかなう、という、死のゲームが始まります。",
+     "show": "集められたのは、認知異常をかかえた13人の「病能者」。殺人がバレなければ願いが叶う、死のゲーム。"
+    },
+    {
+     "say": "嘘がつけない、左半分が見えない、顔が見分けられない。異常でゆがんだ現場を調べて、弁論で、真犯人を暴きます。体験版もありますよ。",
+     "show": "「嘘がつけない」「左半分が見えない」「顔が識別できない」。歪んだ現場を調べ、弁論で真犯人を暴く。体験版あり。"
+    }
+   ],
+   "details": [
+    "開発はPHOSEPO、販売はThermite GamesとSmilegate。本格ミステリーと認知異常を組み合わせた、サスペンス推理アドベンチャーです。Steamのレビューは850件を超えています。",
+    "謎の宗教組織「理」の試練に、13人の「病能者」が招かれます。それぞれの認知異常が周りにも伝染し、殺人現場そのものが歪められます。",
+    "「弁論モード」では、相手の発言を受け入れるか、証拠で反論するかを、限られた時間で判断します。Live2Dの立ち絵とCGで描かれます。Steamに体験版があります。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/3432860/",
+    "title": "Steam：病能探偵",
+    "site": "store.steampowered.com",
+    "description": "認知異常により歪められた殺人現場で真実を探れ。『病能探偵』は、認知異常×本格ミステリーのデスゲーム推理アドベンチャー。 嘘がつけない、左半分が見えない、顔が識別できない—— 異常なルールを乗り越え、真犯人を暴き出せ。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3432860/dc35cc9102438a8e1b7aad26063041739a8c72e5/capsule_616x353_japanese.jpg?t=1793883448",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 3432860,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3432860/1432115163/45e4ca9b9a53816bf66845b8859730b18667e0dc/1793780219/hls_264_master.m3u8?t=1793862031",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257491237/19bc0728163b4c8e7b20ff481678c222e397ec6d/movie_600x337.jpg?t=1793862031",
+     "name": "病能探偵 PV"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3432860/535499469/1c1aa3facd5ee7f50c01d4f391d66153890b65dc/1789426159/hls_264_master.m3u8?t=1793862038",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257425185/11ea0da439dc5d15d527a0ed54fa11c6a85c00c4/movie_600x337.jpg?t=1793862038",
+     "name": "病能探偵 - 発売日PV"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "ホロメンとくつろぐ『HoloCozy』",
+   "points": [
+    "11月13日発売、holo Indieの作品",
+    "デスクトップで、ホロライブメンバーと過ごす",
+    "音楽や環境音を流して、作業のおともに"
+   ],
+   "url": "https://store.steampowered.com/app/5040220/",
+   "lines": [
+    {
+     "say": "つぎは、あした発売の、ホロコージー。",
+     "show": "つぎは、あした13日発売『HoloCozy』。"
+    },
+    {
+     "say": "ホロライブのメンバーと、居心地のいい部屋で、のんびり過ごせる、デスクトップの放置ゲームです。好きなメンバーを一人選んで、そばにいてもらいましょう。",
+     "show": "ホロライブのメンバーと居心地のいい部屋で過ごす、放置型デスクトップコンパニオン。好きなメンバーを1人選ぶ。"
+    },
+    {
+     "say": "音楽や環境音を流しながら、仕事や勉強のおともに。一緒に過ごすうちに、メンバーの能力が少しずつ育っていきます。体験版もありますよ。",
+     "show": "音楽や環境音を選んで、仕事や勉強のおともに。一緒に過ごすほど能力が育つ。体験版あり。"
+    }
+   ],
+   "details": [
+    "開発はNinth Games。株式会社CCMCが展開するインディーゲームブランド「holo Indie」の参加作品です。",
+    "正式版では5人のホロライブメンバーが登場します。メンバー専用ルームと、いろいろなメンバーと過ごせる共用ルームがあります。",
+    "仕事、勉強、ほかのゲームの最中も、デスクトップで起動したままにできます。常に操作する必要はありません。Steamに体験版があります。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/5040220/",
+    "title": "Steam：HoloCozy",
+    "site": "store.steampowered.com",
+    "description": "HoloCozyは、ホロライブタレントとお部屋でゆったり過ごせる、居心地のよい放置型デスクトップコンパニオンゲームです。音楽や環境音を楽しみながら、お仕事や勉強、ひと休みのお供に。自分のペースでお気に入りのタレントの成長を見守りましょう。 ```",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5040220/e6b1d948504a78d28eeedf3c951fee2aabe6db76/capsule_616x353.jpg?t=1794189323",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 5040220,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/5040220/239683636/52c845117efefac77bd128f059a40a595645d7bf/1790472254/hls_264_master.m3u8?t=1790565083",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257436820/f61e9a35d24dc3a44d4322da611cdb9da4383d18/movie_600x337.jpg?t=1790565083",
+     "name": "HoloCozy_Introduction_Video02"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "凸凹コンビの幽霊退治『霊能エージェンシー』",
+   "points": [
+    "11月16日発売のストーリーADV",
+    "正反対の二人組の霊能エージェント",
+    "コミカルなアニメ調で描く怪異事件"
+   ],
+   "url": "https://store.steampowered.com/app/3646950/",
+   "lines": [
+    {
+     "say": "つぎは、十一月十六日発売の、れいのうエージェンシー。",
+     "show": "つぎは11月16日発売『霊能エージェンシー』。"
+    },
+    {
+     "say": "主人公は、性格は正反対なのに、息はぴったりの、ふたり組の霊能エージェント。二人を切り替えながら、この世に残った霊が起こす、怪しい事件を解決していきます。",
+     "show": "主人公は、正反対なのに息ぴったりの霊能エージェント二人組。切り替えながら、居残り霊の怪異事件に挑む。"
+    },
+    {
+     "say": "幽霊退治の道具を自分で作ったり、追いかけてくる霊から逃げたり。ちょっと大げさで、コミカルなアニメ調の幽霊退治です。体験版もありますよ。",
+     "show": "幽霊退治の道具を自作し、追ってくる霊から逃げる。大げさでコミカルなアニメ調。体験版あり。"
+    }
+   ],
+   "details": [
+    "開発は麻辣工作室 Spicy Games、販売はOkasan's Recipe。架空の中国の大都市「江城」が舞台の、ストーリー重視のアドベンチャーです。",
+    "転生を拒んで人間界にとどまる魂「居残り霊」が、怪談や都市伝説を生みます。二人はそれぞれ違う能力を持ち、調査、会話、アクションで長所を生かします。",
+    "ライトレールで街のあちこちを訪ね、住人と話すこともできます。死をテーマにした大人向けの要素がありますが、コミカルに描かれています。Steamに体験版があります。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/3646950/",
+    "title": "Steam：霊能エージェンシー",
+    "site": "store.steampowered.com",
+    "description": "『霊能エージェンシー』は、アニメ風のストーリー重視アドベンチャーゲームです。プレイヤーは自称「霊能エージェント」の二人を切り替えて操作し、さまざまな心霊事件の依頼を引き受けます。騒がしくも愛嬌たっぷりのコンビとともに、多彩な幽霊退治の道具や技を駆使して、架空の中国都市「江城」にとどまる霊たちが引き起こす怪異や都市伝説の謎に迫ります。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3646950/c4ddcd059b07e9e1165f49aed191735cab37526e/capsule_616x353_japanese.jpg?t=1793931792",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 3646950,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3646950/237896518/d2146ab72e8f313e66457fbbc1470b409af8926a/1758119338/hls_264_master.m3u8?t=1758123583",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257199911/263d32255f194968f3bfa660c57c3b044827f79e/movie_600x337.jpg?t=1758123583",
+     "name": "「霊能エージェンシー」予告PV "
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3646950/134136930/8db08d5da35af02d690e5c8d024d5b7aa6d3e4f7/1750411769/hls_264_master.m3u8?t=1749400383",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257153416/d3b06b0dba47cc70352ce59892caf4fde3c374b3/movie_600x337.jpg?t=1749400383",
+     "name": "「霊能エージェンシー」先行PV"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "罠でやり返す脱出劇『Eletta』",
+   "points": [
+    "11月23日発売のアクションアドベンチャー",
+    "さらわれた少女エレッタの脱出劇",
+    "周りの物や仕掛けを武器にする"
+   ],
+   "url": "https://store.steampowered.com/app/3024120/",
+   "lines": [
+    {
+     "say": "つぎは、十一月二十三日発売の、エレッタ。",
+     "show": "つぎは11月23日発売『Eletta』。"
+    },
+    {
+     "say": "誘拐されて、閉じ込められた女の子、エレッタが、自由を求めて、脱出を目指します。",
+     "show": "誘拐・監禁された少女エレッタが、自由を求めて脱出。"
+    },
+    {
+     "say": "武器は、その場にある物。罠をしかけたり、物音で気をそらしたり、ステージの仕掛けを動かしたりして、敵を出し抜きます。笑えるのに、ちょっとだけぞくっとする冒険です。",
+     "show": "その場の物で罠を作り、物音で気をそらし、仕掛けを動かして敵を出し抜く。コミカルで少しダーク。"
+    }
+   ],
+   "details": [
+    "開発・販売はABGAST。周りの環境そのものが武器になる、アクションアドベンチャーです。",
+    "エレッタは脱出を試みるうちに、自分が狙われた理由と、その裏にある真実を知ります。",
+    "敵ごとに戦い方が変わり、個性的なボスとの戦いもあります。日本語に対応しています。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/3024120/",
+    "title": "Steam：Eletta",
+    "site": "store.steampowered.com",
+    "description": "Elettaは、環境そのものを武器に変えて戦う、いたずら心満載のアクションアドベンチャーゲーム。巧妙でカオスな罠を次々と仕掛け、面白くて少しずる賢いやり方で敵を出し抜こう。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3024120/13b0a4b39925153a4f7b18ed0dbebd1e4407bc6f/capsule_616x353.jpg?t=1793727244",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 3024120,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3024120/208293566/8b40496df85dc4e2a800e96a55e7d4d24d906247/1790917103/hls_264_master.m3u8?t=1790919728",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257443551/06a9e254d3cb90d254be23eac51f623d86744267/movie_600x337.jpg?t=1790919728",
+     "name": "Release Date Announcment Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3024120/337388327/da73140f576a045c99affa16c74013f2c42df157/1750958800/hls_264_master.m3u8?t=1748849426",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257149539/32971f9f9888fb5415d9b09387ab0aefaa6a887e/movie_600x337.jpg?t=1748849426",
+     "name": "Gameplay Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3024120/761128/263d6742e181fabbcdfb3067c2946b0fcb43036f/1750958782/hls_264_master.m3u8?t=1729802058",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257058348/2c95d0af1ba853009b70e56914c3645ff010f185/movie_600x337.jpg?t=1729802058",
+     "name": "1 minute Gameplay Demo"
+    }
+   ]
+  },
+  {
+   "corner": "pickup",
+   "label": "遊牧民の少女の旅『Edge of Memories』",
+   "points": [
+    "12月3日発売のアクションRPG",
+    "怪物を生む疫病「腐食病」から世界を救う",
+    "猫のような相棒に乗って大陸を旅する"
+   ],
+   "url": "https://store.steampowered.com/app/2738170/",
+   "lines": [
+    {
+     "say": "新作紹介の最後は、十二月三日発売の、エッジ・オブ・メモリーズ。",
+     "show": "新作紹介の最後は、12月3日発売『Edge of Memories』。"
+    },
+    {
+     "say": "触れたものを怪物に変えてしまう病、腐食病。主人公は、若い遊牧民の少女です。不思議な出会いをきっかけに、腐食病を、自分の体の中で操る力に目覚めます。",
+     "show": "触れたものを怪物に変える「腐食病」。遊牧民の少女Elineが、それを体内で制御する力に目覚める。"
+    },
+    {
+     "say": "仲間と力を合わせて戦い、怒りを解き放つと、ベルセルクに変身。猫のような相棒に乗って、色あざやかな大陸を旅します。",
+     "show": "仲間と連携し、怒りを解き放てばベルセルクに変身。猫のような相棒Nekarooに乗って大陸を旅する。"
+    }
+   ],
+   "details": [
+    "開発はMidgar Studio、販売はNacon。日本のアニメにインスパイアされたビジュアルを、Unreal Engine 5で描くアクションRPGです。",
+    "舞台はAvaris大陸。Elineは、思いがけない助言者Ysorisと、失われた部族のシャーマンプリンスKantaとともに旅をします。物語が進むと、一度訪れた場所も変化していきます。",
+    "素早い攻撃と強力な技を組み合わせ、仲間のスキルをカスタマイズして戦います。日本語に対応しています。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/2738170/",
+    "title": "Steam：Edge of Memories",
+    "site": "store.steampowered.com",
+    "description": "Avarisの住民は、感染したすべてのものをグロテスクな忌まわしいものに変異させる恐ろしい病気、腐食によって破壊されています。若き遊牧民Elineとしてプレイし、世界を滅亡から救うために仲間とともに激しい戦いを指揮しましょう。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2738170/bff8ac3574915dd842acf6c0d1afe1a9beb192ad/capsule_616x353.jpg?t=1791904290",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 2738170,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2738170/1596555153/5679ed5ec5ad65a51b9214aae8b6eebcba742c12/1791903216/hls_264_master.m3u8?t=1791904289",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257425586/fb2729e1454b8ca4847d6fa7eb206d8f3b3d27f0/movie_600x337.jpg?t=1791904289",
+     "name": "Release Date Trailer"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2738170/436548402/15ed9a639b48e6fad8d19f1aba2baec80132c0b4/1778580763/hls_264_master.m3u8?t=1778664349",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257335244/3ed99884d58096801ae6339e5be0fabf72b7ec7b/movie_600x337.jpg?t=1778664349",
+     "name": "Overview Trailer Nacon Connect 26"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/2738170/1896301197/badfc55de5dec5ac9732f27bef85a42eda8a30dc/1760714436/hls_264_master.m3u8?t=1770126311",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257219315/59b3da04e10f0490d396e8be3af6b09ccc4af129/movie_600x337.jpg?t=1770126311",
+     "name": "Story Trailer"
+    }
+   ]
+  },
+  {
+   "corner": "focus",
+   "label": "ビアンカとフローラが主人公『ドラゴンクエストモンスターズ４』",
+   "points": [
+    "12月3日発売、Steam版は7,700円",
+    "ビアンカとフローラが「モンスターマスター」に",
+    "どんなモンスターも連れ歩ける",
+    "体験版から仲間モンスターを引き継げる"
+   ],
+   "url": "https://store.steampowered.com/app/3681610/",
+   "lines": [
+    {
+     "say": "最後は、じっくり紹介のコーナー。今日は、十二月三日発売の、ドラゴンクエストモンスターズフォー、かれきの国のビアンカ・フローラです。",
+     "show": "最後はじっくり紹介。今日は12月3日発売『ドラゴンクエストモンスターズ４　枯れ木の国のビアンカ・フローラ』。"
+    },
+    {
+     "say": "ドラクエのモンスターを仲間にして、育てて、配合して、戦わせるRPG。今回は、ビアンカとフローラの二人の少女が、モンスターと心を通わせる、モンスターマスターになって、新しい旅に出ます。",
+     "show": "モンスターを仲間にして育成・配合するRPG。ビアンカとフローラが「モンスターマスター」として旅に出る。"
+    },
+    {
+     "say": "モンスターごとに、能力も、覚えるスキルもいろいろ。モンスター同士を配合すれば、もっと強いモンスターや、まだ見たことのない種族が生まれます。",
+     "show": "能力・特性・スキルはモンスターごとに。配合で、より強い個体や未知の種族が生まれる。"
+    },
+    {
+     "say": "フィールドは、地平線がゆるやかに曲がって見える、独特の見た目。仲間のモンスターは、種族や大きさに関係なく、どの子でも連れ歩けます。",
+     "show": "地平線がゆるやかに湾曲して見える独自のフィールド。どんなモンスターも連れ歩ける。"
+    },
+    {
+     "say": "通信を使えば、世界中のモンスターマスターと対戦も。真剣勝負から、気軽な対戦まで、いろいろなモードがあります。",
+     "show": "通信で世界中のマスターとバトル。真剣勝負から気軽な対戦まで、多彩なモード。"
+    },
+    {
+     "say": "スチームには、もう体験版があって、最初のカレキ地方をクリアするまで遊べます。体験版の仲間モンスターは、製品版に連れていけますよ。",
+     "show": "Steamに体験版あり。最初の「カレキ地方」クリアまで遊べて、仲間モンスターを製品版へ引き継げる。"
+    }
+   ],
+   "details": [
+    "スクウェア・エニックスの『ドラゴンクエストモンスターズ４　枯れ木の国のビアンカ・フローラ』。Steam版は2026年12月3日発売で、価格は7,700円です。",
+    "「マスターズ版」には、追加DLC4点セットと育成アイテム、48時間のアーリーアクセス権（12月2日2時から）が付きます。早期購入特典と、ダウンロード版購入特典もあります。",
+    "体験版では、主人公たちが最初にたどり着く「カレキ地方」をクリアするまで遊べます。仲間にできるのはGランクとFランクのモンスターで、パーティとスタンバイの最大8体を製品版へ引き継げます（同じプラットフォームどうしのみ）。",
+    "流れている動画は、Steamの公式トレーラーです。"
+   ],
+   "link": {
+    "url": "https://store.steampowered.com/app/3681610/",
+    "title": "Steam：ドラゴンクエストモンスターズ４　枯れ木の国のビアンカ・フローラ",
+    "site": "store.steampowered.com",
+    "description": "「ドラゴンクエスト」シリーズに登場するさまざまなモンスターたちを仲間にして育成・配合し、モンスター同士の迫力あるバトルが楽しめるRPGです。 本作ではビアンカとフローラという2人の少女が、モンスターと心を通わせる「モンスターマスター」となって、新たな冒険の旅を繰り広げます。",
+    "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3681610/da3bc03ed97d8537c3bd56d74456ea61aeeb3c24/capsule_616x353_japanese.jpg?t=1793308217",
+    "icon": "https://store.steampowered.com/favicon.ico"
+   },
+   "steam": 3681610,
+   "videos": [
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3681610/1909235141/fc13147afe73f5ffb8e0f25ac7468c3922514a3b/1792465054/hls_264_master.m3u8?t=1792491152",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257470167/979df60f1dc578cbc09fe46db07e6367ec8851e2/movie_600x337.jpg?t=1792491152",
+     "name": "DQM4_TGS trailer_Steam_JP"
+    },
+    {
+     "hls": "https://video.akamai.steamstatic.com/store_trailers/3681610/2026655607/fef5f848138e2d1ee905e71fdaec46c8d89f1c6b/1779867488/hls_264_master.m3u8?t=1781020734",
+     "poster": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257343874/940636bec7d62f614284ab10abd7fc531a3509ee/movie_600x337.jpg?t=1781020734",
+     "name": "JP_1st Trailer"
+    }
+   ]
+  }
+ ],
+ "highlight": 9,
+ "closing": [
+  {
+   "say": "今日は、ブルアカの引き継ぎのお知らせから、新しいキャラクター、これからの新作、そして、ドラクエモンスターズフォーまで、紹介しました。",
+   "show": "ブルアカの引き継ぎ案内から、新キャラ、これからの新作、『DQM4』まで紹介しました。"
+  },
+  {
+   "say": "ブルアカを遊んでいる人は、一月中旬までに、引き継ぎの申請を忘れずに。ドラクエモンスターズフォーは、十二月三日発売です。",
+   "show": "ブルアカの引き継ぎ申請は1月中旬までに。『ドラゴンクエストモンスターズ４』は12月3日発売。"
+  },
+  {
+   "say": "それではまた、らびっとらじおでお会いしましょう。",
+   "show": "それではまた、らびっとらじおで。"
+  }
+ ],
+ "seconds": 348.36,
+ "lines_timed": [
+  {
+   "start": 0.6,
+   "end": 9.322,
+   "show": "らびっとらじお、はじまりました。11月12日木曜日、気になったゲーム特集です。",
+   "part": 0
+  },
+  {
+   "start": 9.572,
+   "end": 15.681,
+   "show": "ニュース4本・新作紹介5本・じっくり紹介1本。",
+   "part": 0
+  },
+  {
+   "start": 16.481,
+   "end": 23.67,
+   "show": "まずは『ブルーアーカイブ』。アカウント引き継ぎ申請の受付がスタート。",
+   "part": 1
+  },
+  {
+   "start": 23.92,
+   "end": 35.324,
+   "show": "2027年1月中旬、パブリッシャーがYostarからNexonへ。申請しないと、今のアカウントでログインできなくなる。",
+   "part": 1
+  },
+  {
+   "start": 35.574,
+   "end": 44.273,
+   "show": "手続きには、ブルアカを紐づけたYostarIDと、NEXONの会員アカウントが必要。開発は変わらず。",
+   "part": 1
+  },
+  {
+   "start": 45.073,
+   "end": 54.433,
+   "show": "つぎは『NTE: Neverness to Everness』。新キャラ「イェルム」（CV：雨宮天さん）が11日に実装。",
+   "part": 2
+  },
+  {
+   "start": 54.683,
+   "end": 68.165,
+   "show": "異象管理局E.T.D第6小隊の副隊長。サポートながら「電波」を弱→中→強と高め、EXレール終結で派手に決める。",
+   "part": 2
+  },
+  {
+   "start": 68.415,
+   "end": 74.803,
+   "show": "家に招くと、黒板に前衛的なタッチで似顔絵を描いてくれる。",
+   "part": 2
+  },
+  {
+   "start": 75.603,
+   "end": 81.701,
+   "show": "つぎは『カオスゼロナイトメア』。新戦闘員「ブレイズベル」が登場するアップデート。",
+   "part": 3
+  },
+  {
+   "start": 81.951,
+   "end": 92.483,
+   "show": "炎のスキルで味方をサポートするコントローラー。シーズン5第2章で、彼女の過去が明らかに。",
+   "part": 3
+  },
+  {
+   "start": 92.733,
+   "end": 100.944,
+   "show": "要望の多かった「戦闘倍速」を実装。12月2日まで記念イベント「記憶を照らす炎」。",
+   "part": 3
+  },
+  {
+   "start": 101.744,
+   "end": 110.919,
+   "show": "ニュースの最後は『真夏のシトラス』。働く女性たちの恋を描く百合恋愛ノベル、2027年1月5日発売へ。",
+   "part": 4
+  },
+  {
+   "start": 111.169,
+   "end": 124.558,
+   "show": "主人公は残業続きの27歳・呉依。話すぬいぐるみと、こぼれた香水をきっかけに、3人との恋が動き出す。",
+   "part": 4
+  },
+  {
+   "start": 124.808,
+   "end": 132.299,
+   "show": "体験版への批判を受け、シナリオを一から全面的に書き直し。日本語表示は製品版で対応。",
+   "part": 4
+  },
+  {
+   "start": 133.099,
+   "end": 140.335,
+   "show": "ここからは新作紹介。まずは11月4日発売、話題の『病能探偵』。",
+   "part": 5
+  },
+  {
+   "start": 140.585,
+   "end": 151.524,
+   "show": "集められたのは、認知異常をかかえた13人の「病能者」。殺人がバレなければ願いが叶う、死のゲーム。",
+   "part": 5
+  },
+  {
+   "start": 151.774,
+   "end": 161.796,
+   "show": "「嘘がつけない」「左半分が見えない」「顔が識別できない」。歪んだ現場を調べ、弁論で真犯人を暴く。体験版あり。",
+   "part": 5
+  },
+  {
+   "start": 162.596,
+   "end": 165.396,
+   "show": "つぎは、あした13日発売『HoloCozy』。",
+   "part": 6
+  },
+  {
+   "start": 165.646,
+   "end": 175.088,
+   "show": "ホロライブのメンバーと居心地のいい部屋で過ごす、放置型デスクトップコンパニオン。好きなメンバーを1人選ぶ。",
+   "part": 6
+  },
+  {
+   "start": 175.338,
+   "end": 185.29,
+   "show": "音楽や環境音を選んで、仕事や勉強のおともに。一緒に過ごすほど能力が育つ。体験版あり。",
+   "part": 6
+  },
+  {
+   "start": 186.09,
+   "end": 190.47,
+   "show": "つぎは11月16日発売『霊能エージェンシー』。",
+   "part": 7
+  },
+  {
+   "start": 190.72,
+   "end": 202.344,
+   "show": "主人公は、正反対なのに息ぴったりの霊能エージェント二人組。切り替えながら、居残り霊の怪異事件に挑む。",
+   "part": 7
+  },
+  {
+   "start": 202.594,
+   "end": 212.256,
+   "show": "幽霊退治の道具を自作し、追ってくる霊から逃げる。大げさでコミカルなアニメ調。体験版あり。",
+   "part": 7
+  },
+  {
+   "start": 213.056,
+   "end": 216.948,
+   "show": "つぎは11月23日発売『Eletta』。",
+   "part": 8
+  },
+  {
+   "start": 217.198,
+   "end": 223.319,
+   "show": "誘拐・監禁された少女エレッタが、自由を求めて脱出。",
+   "part": 8
+  },
+  {
+   "start": 223.569,
+   "end": 234.81,
+   "show": "その場の物で罠を作り、物音で気をそらし、仕掛けを動かして敵を出し抜く。コミカルで少しダーク。",
+   "part": 8
+  },
+  {
+   "start": 235.61,
+   "end": 241.534,
+   "show": "新作紹介の最後は、12月3日発売『Edge of Memories』。",
+   "part": 9
+  },
+  {
+   "start": 241.784,
+   "end": 253.966,
+   "show": "触れたものを怪物に変える「腐食病」。遊牧民の少女Elineが、それを体内で制御する力に目覚める。",
+   "part": 9
+  },
+  {
+   "start": 254.216,
+   "end": 263.471,
+   "show": "仲間と連携し、怒りを解き放てばベルセルクに変身。猫のような相棒Nekarooに乗って大陸を旅する。",
+   "part": 9
+  },
+  {
+   "start": 264.271,
+   "end": 273.585,
+   "show": "最後はじっくり紹介。今日は12月3日発売『ドラゴンクエストモンスターズ４　枯れ木の国のビアンカ・フローラ』。",
+   "part": 10
+  },
+  {
+   "start": 273.835,
+   "end": 287.48,
+   "show": "モンスターを仲間にして育成・配合するRPG。ビアンカとフローラが「モンスターマスター」として旅に出る。",
+   "part": 10
+  },
+  {
+   "start": 287.73,
+   "end": 297.276,
+   "show": "能力・特性・スキルはモンスターごとに。配合で、より強い個体や未知の種族が生まれる。",
+   "part": 10
+  },
+  {
+   "start": 297.526,
+   "end": 307.048,
+   "show": "地平線がゆるやかに湾曲して見える独自のフィールド。どんなモンスターも連れ歩ける。",
+   "part": 10
+  },
+  {
+   "start": 307.298,
+   "end": 315.567,
+   "show": "通信で世界中のマスターとバトル。真剣勝負から気軽な対戦まで、多彩なモード。",
+   "part": 10
+  },
+  {
+   "start": 315.817,
+   "end": 325.027,
+   "show": "Steamに体験版あり。最初の「カレキ地方」クリアまで遊べて、仲間モンスターを製品版へ引き継げる。",
+   "part": 10
+  },
+  {
+   "start": 325.827,
+   "end": 335.199,
+   "show": "ブルアカの引き継ぎ案内から、新キャラ、これからの新作、『DQM4』まで紹介しました。",
+   "part": 11
+  },
+  {
+   "start": 335.449,
+   "end": 344.449,
+   "show": "ブルアカの引き継ぎ申請は1月中旬までに。『ドラゴンクエストモンスターズ４』は12月3日発売。",
+   "part": 11
+  },
+  {
+   "start": 344.699,
+   "end": 347.558,
+   "show": "それではまた、らびっとらじおで。",
+   "part": 11
+  }
+ ],
+ "segments": [
+  {
+   "kind": "opening",
+   "index": null,
+   "start": 0.6,
+   "end": 16.481
+  },
+  {
+   "kind": "news",
+   "index": 0,
+   "start": 16.481,
+   "end": 45.073
+  },
+  {
+   "kind": "news",
+   "index": 1,
+   "start": 45.073,
+   "end": 75.603
+  },
+  {
+   "kind": "news",
+   "index": 2,
+   "start": 75.603,
+   "end": 101.744
+  },
+  {
+   "kind": "news",
+   "index": 3,
+   "start": 101.744,
+   "end": 133.099
+  },
+  {
+   "kind": "news",
+   "index": 4,
+   "start": 133.099,
+   "end": 162.596
+  },
+  {
+   "kind": "news",
+   "index": 5,
+   "start": 162.596,
+   "end": 186.09
+  },
+  {
+   "kind": "news",
+   "index": 6,
+   "start": 186.09,
+   "end": 213.056
+  },
+  {
+   "kind": "news",
+   "index": 7,
+   "start": 213.056,
+   "end": 235.61
+  },
+  {
+   "kind": "news",
+   "index": 8,
+   "start": 235.61,
+   "end": 264.271
+  },
+  {
+   "kind": "news",
+   "index": 9,
+   "start": 264.271,
+   "end": 325.827
+  },
+  {
+   "kind": "closing",
+   "index": null,
+   "start": 325.827,
+   "end": 348.358
+  }
+ ],
+ "made_at": "2026-11-12T12:55:40"
+}
